@@ -1,0 +1,4478 @@
+{
+  "generatedAt": "2026-09-14T16:41:53+09:00",
+  "sourceFile": "NSAマッピング_マスター.xlsx",
+  "itemCount": 199,
+  "items": [
+    {
+      "id": 1,
+      "cat": "分野横断：制度・基盤",
+      "el": "A",
+      "t": "農業投入財（種子・肥料）の流通・供給網整備、アグロディーラー支援",
+      "tl": "中",
+      "td": "物流・在庫管理、種子品質検査等の技術支援",
+      "il": "大",
+      "idt": "流通網・倉庫・アグロディーラー拠点整備",
+      "pl": "必須",
+      "pd": "流通事業者の参入規制緩和、種子・肥料の品質認証制度",
+      "n": "道路インフラの整備状況に依存",
+      "overview": "農家が改良種子・化学肥料等の投入財を必要な時期に適正価格で入手できるよう、卸売から末端の小売店（アグロディーラー）に至る流通網を整備する取り組み。地方の民間販売店の起業支援、在庫管理・輸送体制の構築、種子・肥料の品質検査体制の整備などを通じて行う。",
+      "effects": "Availabilityの主効果として、投入財の供給量・入手可能性の向上に直接寄与する。副次的にAccessibility（末端価格の低下、購入機会の拡大）にも寄与する。Stability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "cat": "分野横断：制度・基盤",
+      "el": "A",
+      "t": "普及体制の強化（公的普及員の配置、ファーマーフィールドスクール（FFS）等の普及プラットフォーム）",
+      "tl": "中",
+      "td": "普及員の技術研修・FFSファシリテーション能力",
+      "il": "大",
+      "idt": "普及員人件費・研修費等の経常支出",
+      "pl": "必須",
+      "pd": "公的普及サービスへの予算措置、配置基準",
+      "n": "普及員の男女比等ジェンダーバランス",
+      "overview": "公的普及員の配置拡充や、農家参加型で実験圃場を用いた体験学習を行うファーマーフィールドスクール（FFS）など、栽培技術・営農知識を農家に届ける仕組みを強化する取り組み。普及員研修の充実やFFSファシリテーターの育成を伴う。",
+      "effects": "Availabilityの主効果として、技術普及による生産性向上を通じた供給量増加に寄与する。副次的にAccessibility（情報・知識への到達性向上）やUtilization（適切な栽培・調理知識の伝達）にも寄与しうる。Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "cat": "分野横断：制度・基盤",
+      "el": "A",
+      "t": "農業研究・種子増殖システム（国立研究機関、コミュニティ種子生産）の整備",
+      "tl": "高",
+      "td": "品種開発・種子増殖（基礎種子〜認証種子）技術",
+      "il": "大",
+      "idt": "研究機関・種子生産施設への長期投資",
+      "pl": "必須",
+      "pd": "種子法制度、品種登録・認証制度",
+      "n": "研究機関の人材確保・維持",
+      "overview": "国立農業研究機関による品種開発と、基礎種子から認証種子に至る増殖・供給体制（コミュニティベースの種子生産を含む）を整備する取り組み。優良品種の育成、原種保存、種子増殖圃場の運営、品質検査体制の構築などを含む。",
+      "effects": "Availabilityの主効果として、優良品種の安定供給による生産量増加に寄与する。副次的にUtilization（栄養強化品種の普及を通じた栄養価向上）にも寄与しうる。Accessibility・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "HarvestPlus: Twenty Years of Enriching Diets with Biofortification",
+          "url": "https://www.harvestplus.org/twenty-years-of-enriching-diets-with-biofortification/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "cat": "分野横断：制度・基盤",
+      "el": "A",
+      "t": "かんがい・農業インフラ（灌漑施設、農村電化）への公共投資",
+      "tl": "高",
+      "td": "灌漑エンジニアリング、電化計画",
+      "il": "大",
+      "idt": "国家・ドナー予算規模のインフラ投資",
+      "pl": "必須",
+      "pd": "インフラ投資計画・水利権制度",
+      "n": "維持管理体制（O&M）の確立",
+      "overview": "灌漑施設の建設・改修や農村電化など、生産基盤となる大規模インフラへの公共投資。安定的な水供給による作付け回数の増加や、電力を活用した揚水・加工・保冷設備の導入を可能にする。",
+      "effects": "Availabilityの主効果として、灌漑による収量・作付け回数増加を通じた供給量拡大に寄与する。副次的にStability（天候変動に左右されにくい安定生産）にも大きく寄与する。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "cat": "分野横断：制度・基盤",
+      "el": "A",
+      "t": "農地・水利用権の制度整備（投資インセンティブとしての土地保有の安定化）",
+      "tl": "低",
+      "td": "登記・測量等の行政技術",
+      "il": "中",
+      "idt": "土地登記システム整備費用",
+      "pl": "必須",
+      "pd": "土地法制度改革、水利権の法整備",
+      "n": "既存の慣習的土地保有制度との調整（社会的合意形成）",
+      "overview": "農地登記・測量制度の整備や水利権の法制化を通じて土地保有の安定性を高め、農家が長期的な投資（灌漑・土壌改良等）を行うインセンティブを確保する取り組み。",
+      "effects": "Availabilityの主効果として、投資意欲向上を通じた中長期的な生産拡大に寄与する。副次的にAccessibility（女性や小規模農家の土地アクセス改善）にも寄与しうる。Stability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "cat": "分野横断：制度・基盤",
+      "el": "B",
+      "t": "農村道路・輸送インフラ整備（生産地－市場間のアクセス改善）",
+      "tl": "高",
+      "td": "土木工事技術",
+      "il": "大",
+      "idt": "道路建設・維持管理（国家インフラ予算規模）",
+      "pl": "必須",
+      "pd": "インフラ整備計画への組み込み",
+      "n": "気候変動による損壊リスクへの耐性設計",
+      "overview": "生産地と市場を結ぶ農村道路の建設・改修を通じて、農産物の輸送コストと時間を削減し、市場への到達性を高める取り組み。橋梁・未舗装道路の整備や維持管理体制の構築を含む。",
+      "effects": "Accessibilityの主効果として、市場・投入財へのアクセス改善に寄与する。副次的にAvailability（流通効率化による実質的な供給量増加）やStability（輸送遅延による収穫後損失の軽減）にも寄与する。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "cat": "分野横断：制度・基盤",
+      "el": "B",
+      "t": "農村金融アクセス（マイクロファイナンス、貯蓄グループ、モバイルマネー）",
+      "tl": "中",
+      "td": "金融サービス運営、モバイル決済システム",
+      "il": "中",
+      "idt": "支店・代理店網、通信インフラ",
+      "pl": "一部必要",
+      "pd": "マイクロファイナンス規制、モバイルマネーのライセンス",
+      "n": "農村部の携帯電話普及率・識字率",
+      "overview": "マイクロファイナンス機関、農村貯蓄グループ、モバイルマネーサービスなどを通じて、農家が投入財購入や生活資金のための金融サービスにアクセスできるようにする取り組み。",
+      "effects": "Accessibilityの主効果として、資金へのアクセス改善による投入財購入力の向上に寄与する。副次的にStability（収入変動時の資金繰り改善）やAvailability（投入財購入を通じた生産拡大）にも寄与しうる。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "cat": "分野横断：制度・基盤",
+      "el": "B",
+      "t": "農民組織・協同組合の育成（共同購入・共同販売による取引コスト低減）",
+      "tl": "低",
+      "td": "組織運営・簿記等の基礎能力",
+      "il": "小〜中",
+      "idt": "組織化支援・研修費用",
+      "pl": "一部必要",
+      "pd": "協同組合法制度",
+      "n": "リーダーシップ人材、組織内ガバナンス",
+      "overview": "農家が共同で組合を組織し、投入財の共同購入や農産物の共同販売を行うことで、個別農家の取引コストを下げ、交渉力を高める取り組み。組織運営や簿記等の基礎能力研修を伴う。",
+      "effects": "Accessibilityの主効果として、共同購入・販売による取引コスト低減、市場アクセス改善に寄与する。副次的にStability（安定的な販路確保）にも寄与しうる。Availability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "cat": "分野横断：制度・基盤",
+      "el": "B",
+      "t": "市場情報システム（価格情報のICT配信）の整備",
+      "tl": "中",
+      "td": "ICTシステム構築・データ収集体制",
+      "il": "中",
+      "idt": "システム構築・運用費用",
+      "pl": "一部必要",
+      "pd": "情報の公的収集・公開体制",
+      "n": "携帯電話・インターネット普及率への依存",
+      "overview": "携帯電話等のICTを活用して農産物の市場価格情報を農家にリアルタイムで配信する仕組みの整備。価格データの収集・集約・配信体制の構築を含む。",
+      "effects": "Accessibilityの主効果として、価格情報へのアクセス改善による交渉力・販売判断の向上に寄与する。副次的にStability（不当な安値売却の回避による収入安定）にも寄与しうる。Availability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "cat": "分野横断：制度・基盤",
+      "el": "B",
+      "t": "女性の土地・資源アクセス改善（相続・登記制度の是正、ジェンダー配慮型普及）",
+      "tl": "低",
+      "td": "ジェンダー配慮型普及手法の研修",
+      "il": "小",
+      "idt": "普及員研修費用",
+      "pl": "必須",
+      "pd": "相続法・土地登記制度の是正（法改正を要する場合が多い）",
+      "n": "社会的・文化的規範の変化を伴う長期的合意形成",
+      "overview": "相続制度や土地登記制度における女性への不利な扱いを是正し、女性が土地・農業資源に公平にアクセスできるようにする取り組み。ジェンダー配慮型の普及手法の導入も含む。",
+      "effects": "Accessibilityの主効果として、女性の土地・資源へのアクセス改善に寄与する。副次的にUtilization（女性の意思決定権向上を通じた世帯内の栄養配分改善）にも寄与しうる。Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "cat": "分野横断：制度・基盤",
+      "el": "B",
+      "t": "農業と連動した社会的保護制度（Cash+、学校給食の地場調達等）",
+      "tl": "中",
+      "td": "給付対象の特定・モニタリング技術",
+      "il": "大",
+      "idt": "現金給付・学校給食の恒常的財源",
+      "pl": "必須",
+      "pd": "社会保護制度の法整備・予算措置",
+      "n": "対象者選定の公平性確保",
+      "overview": "現金給付に加えて農業技術指導や生産資材を組み合わせて提供する「Cash+」や、学校給食における地場農産物調達を組み合わせた社会保護制度。脆弱層の食料アクセスと生産能力を同時に支援する。",
+      "effects": "Accessibilityの主効果として、現金給付による食料購入力の向上に寄与する。副次的にAvailability（地場調達を通じた小規模農家の需要創出）やUtilization（栄養改善を意図した給付設計）にも寄与しうる。Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "cat": "分野横断：制度・基盤",
+      "el": "C",
+      "t": "戦略的食料備蓄制度・国家備蓄倉庫の整備",
+      "tl": "中",
+      "td": "貯蔵技術（害虫・カビ対策）、放出判断システム",
+      "il": "大",
+      "idt": "備蓄倉庫建設・穀物調達費（国家予算規模）",
+      "pl": "必須",
+      "pd": "備蓄運用ルール（放出基準等）の法制度化",
+      "n": "汚職・横流しリスクへのガバナンス対策",
+      "overview": "国家レベルで穀物等の食料を備蓄倉庫に貯蔵し、不作や価格高騰時に市場へ放出することで供給を平準化する制度。貯蔵時の害虫・カビ対策や放出判断の仕組みを含む。",
+      "effects": "Stabilityの主効果として、供給ショック時の価格・供給の安定化に寄与する。副次的にAvailability（緊急時の供給確保）にも寄与しうる。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "PMC: Reducing Postharvest Losses during Storage of Grain Crops to Strengthen Food Security in Developing Countries",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5296677/"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "cat": "分野横断：制度・基盤",
+      "el": "C",
+      "t": "倉庫証券制度（warehouse receipt system）によるつなぎ融資と供給平準化",
+      "tl": "中",
+      "td": "倉庫管理・品質格付け技術",
+      "il": "中",
+      "idt": "認定倉庫の整備",
+      "pl": "必須",
+      "pd": "倉庫証券の法的効力の担保、金融機関との連携制度",
+      "n": "農家の制度理解・信頼醸成",
+      "overview": "農家が収穫物を認定倉庫に預け、その預かり証（倉庫証券）を担保に融資を受けられる仕組み。収穫直後の安値売却を回避し、価格が安定した時期に販売できるようにすることで供給を平準化する。",
+      "effects": "Stabilityの主効果として、つなぎ融資による安値時の売り急ぎ回避、供給平準化に寄与する。副次的にAccessibility（農家の金融アクセス改善）にも寄与しうる。Availability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "cat": "分野横断：制度・基盤",
+      "el": "C",
+      "t": "地域内貿易円滑化・輸入代替政策（域内流通障壁の低減、緊急時の輸入枠設定）",
+      "tl": "低",
+      "td": "貿易実務・通関手続き",
+      "il": "中",
+      "idt": "通関インフラ整備",
+      "pl": "必須",
+      "pd": "貿易政策・関税制度の改定（近隣国との調整を要する場合あり）",
+      "n": "地域経済統合の進展度に依存",
+      "overview": "近隣国間の食料流通における関税・通関手続き等の障壁を低減し、また緊急時には輸入枠を設定するなど、域内・域外貿易を通じて食料供給の変動を緩和する政策。",
+      "effects": "Stabilityの主効果として、域内流通の円滑化・緊急時輸入による供給変動の緩和に寄与する。副次的にAvailability（不足時の供給補完）にも寄与しうる。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "cat": "分野横断：制度・基盤",
+      "el": "C",
+      "t": "天候インデックス保険等、農業保険制度の整備",
+      "tl": "高",
+      "td": "保険設計（気象データ・アクチュアリー技術）",
+      "il": "中",
+      "idt": "保険商品開発・気象観測網整備",
+      "pl": "必須",
+      "pd": "保険業規制・保険料補助制度",
+      "n": "農家の保険リテラシー向上（継続的な普及教育）",
+      "overview": "降雨量等の気象指標に連動して保険金を支払う天候インデックス保険をはじめとする農業保険制度。干ばつ・洪水等による損失発生時に農家の収入を補填し、営農継続を支える。",
+      "effects": "Stabilityの主効果として、気象ショック時の収入補填による経営安定に寄与する。副次的にAccessibility（保険加入を条件とした融資アクセス改善）にも寄与しうる。Availability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "cat": "分野横断：制度・基盤",
+      "el": "C",
+      "t": "早期警戒システム（干ばつ・洪水・飢饉モニタリング）の制度的基盤",
+      "tl": "高",
+      "td": "気象・衛星データ解析技術",
+      "il": "大",
+      "idt": "観測網・データ解析システムの構築",
+      "pl": "必須",
+      "pd": "早期警戒情報の発信・対応体制の制度化",
+      "n": "情報が末端の農家まで届く伝達網",
+      "overview": "干ばつ・洪水・飢饉の兆候を衛星データや気象観測を通じて早期に検知し、対応策を発動するための制度的基盤。観測網の構築、データ解析、警戒情報の発信体制を含む。",
+      "effects": "Stabilityの主効果として、危機の早期察知による被害軽減・対応の迅速化に寄与する。副次的にAvailability（早期対応による生産・供給の維持）にも寄与しうる。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "cat": "分野横断：制度・基盤",
+      "el": "C",
+      "t": "契約栽培・アウトグロワー制度の推進（買取価格・数量の事前契約による収入安定化）",
+      "tl": "低",
+      "td": "契約管理・品質基準の運用",
+      "il": "小〜中",
+      "idt": "契約管理体制の構築",
+      "pl": "一部必要",
+      "pd": "契約履行を担保する法的枠組み",
+      "n": "買い手（企業等）との信頼関係構築",
+      "overview": "農家と買い手企業が事前に買取価格・数量を契約する仕組み。収穫前に販路と価格を確定させることで、農家の収入変動リスクを軽減し、安定した生産計画を可能にする。",
+      "effects": "Stabilityの主効果として、事前契約による収入変動の抑制に寄与する。副次的にAccessibility（契約を通じた投入財・技術支援の提供）にも寄与しうる。Availability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "cat": "分野横断：制度・基盤",
+      "el": "C",
+      "t": "ショック対応型社会保護制度（Shock-Responsive Safety Net）：干ばつ・洪水等の発生時に給付対象・給付額を自動的に拡大する仕組み、人道支援との連携",
+      "tl": "中",
+      "td": "対象者特定・給付トリガー設計（早期警戒データとの連動）",
+      "il": "大",
+      "idt": "緊急時給付の財源確保（平常時からの準備金・保険連動等）",
+      "pl": "必須",
+      "pd": "ショック対応型社会保護の法制度・トリガー基準の整備",
+      "n": "早期警戒システム、及び畜産（共通）のデストッキング支援と連動",
+      "overview": "干ばつ・洪水等の発生時に、平時の社会保護制度の給付対象や給付額を自動的に拡大し、人道支援と連携して迅速に対応する仕組み。早期警戒データと連動したトリガー設計を伴う。",
+      "effects": "Stabilityの主効果として、ショック発生時の迅速な給付拡大による生活・食料アクセスの維持に寄与する。副次的にAccessibility（危機時の食料購入力維持）にも寄与しうる。Availability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "cat": "分野横断：制度・基盤",
+      "el": "D",
+      "t": "食品安全規制・基準・認証制度（残留農薬・微生物基準、検査機関の整備）",
+      "tl": "高",
+      "td": "検査機関の分析技術・機器整備",
+      "il": "大",
+      "idt": "検査機関・ラボの設立・維持",
+      "pl": "必須",
+      "pd": "食品安全基準の法制化、認証制度",
+      "n": "検査人材の確保・継続的な技能維持",
+      "overview": "残留農薬や微生物汚染等に関する食品安全基準を定め、検査機関を整備して流通食品の安全性を担保する制度。分析機器の整備や検査人材の育成を含む。",
+      "effects": "Utilizationの主効果として、安全な食品供給による健康的な栄養摂取の確保に寄与する。副次的にAccessibility（輸出向け基準達成による市場アクセス拡大）にも寄与しうる。Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "cat": "分野横断：制度・基盤",
+      "el": "D",
+      "t": "食品強化（フォーティフィケーション）に関する国家政策・義務化制度",
+      "tl": "中",
+      "td": "強化技術の標準化・品質管理基準",
+      "il": "中",
+      "idt": "義務化に伴う産業側の設備投資（政府補助を伴う場合あり）",
+      "pl": "必須",
+      "pd": "フォーティフィケーション義務化法制、モニタリング制度",
+      "n": "産業界（製粉業者等）の協力・遵守体制",
+      "overview": "小麦粉・食用油等の主要食品にビタミン・ミネラルを添加することを法的に義務付ける制度。強化技術の標準化、品質管理基準の整備、産業界へのモニタリングを含む。",
+      "effects": "Utilizationの主効果として、微量栄養素摂取の底上げによる栄養状態改善に寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "HarvestPlus: Twenty Years of Enriching Diets with Biofortification",
+          "url": "https://www.harvestplus.org/twenty-years-of-enriching-diets-with-biofortification/"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "cat": "分野横断：制度・基盤",
+      "el": "D",
+      "t": "農業・保健・栄養をつなぐマルチセクター栄養調整プラットフォーム",
+      "tl": "低",
+      "td": "省庁間調整の運営スキル",
+      "il": "小〜中",
+      "idt": "調整事務局の運営費用",
+      "pl": "必須",
+      "pd": "省庁横断的な調整メカニズムの制度化",
+      "n": "各省庁の権限・予算配分の調整（政治的合意）",
+      "overview": "農業・保健・栄養等の複数省庁にまたがる政策を調整し、栄養改善に向けた施策の整合性を確保するための省庁横断的な会議体・調整メカニズム。",
+      "effects": "Utilizationの主効果として、施策間の整合性確保を通じた栄養改善効果の最大化に寄与する。他要素への副次的効果は限定的だが、政策全体の実効性向上を通じて間接的に寄与しうる。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "cat": "分野横断：制度・基盤",
+      "el": "D",
+      "t": "消費者向け栄養教育・行動変容コミュニケーション（SBCC）の制度的推進体制",
+      "tl": "中",
+      "td": "SBCC手法（メッセージ設計・行動科学）",
+      "il": "中",
+      "idt": "教育キャンペーン・教材開発・実施費用",
+      "pl": "一部必要",
+      "pd": "栄養教育の国家戦略への位置付け",
+      "n": "メディア・地域チャネルへのアクセス",
+      "overview": "メッセージ設計や行動科学の知見を活用し、消費者の食習慣・調理行動の改善を促す教育・啓発活動を制度的に推進する体制。教材開発やメディア・地域チャネルを通じた普及を含む。",
+      "effects": "Utilizationの主効果として、適切な食習慣・調理法の普及による栄養状態改善に寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "cat": "分野横断：制度・基盤",
+      "el": "D",
+      "t": "学校給食プログラムを通じた栄養改善と地場農産物調達の連動",
+      "tl": "中",
+      "td": "調達・献立設計・栄養価計算の技術",
+      "il": "大",
+      "idt": "給食運営の恒常的財源",
+      "pl": "必須",
+      "pd": "学校給食制度・地場調達を可能にする調達規則",
+      "n": "小規模農家の給食向け供給能力（品質・量の安定性）",
+      "overview": "学校給食に地元の小規模農家から調達した農産物を活用する仕組み。児童の栄養改善と同時に、地場農家の販路確保・所得向上を図る。献立設計や栄養価計算、調達規則の整備を伴う。",
+      "effects": "Utilizationの主効果として、栄養バランスの取れた給食提供による児童の栄養改善に寄与する。副次的にAccessibility（地場農家の安定した販路確保）やAvailability（地域内での需要創出）にも寄与しうる。Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "cat": "分野横断：制度・基盤",
+      "el": "D",
+      "t": "農業普及カリキュラムへの栄養・ジェンダー視点の統合（世帯内配分の偏り是正）",
+      "tl": "中",
+      "td": "普及員向け栄養・ジェンダー研修教材の開発",
+      "il": "小〜中",
+      "idt": "カリキュラム改訂・研修費用",
+      "pl": "一部必要",
+      "pd": "普及員研修制度への正式な組み込み",
+      "n": "普及員自身のジェンダー意識の変容が前提",
+      "overview": "普及員向けの研修カリキュラムに、栄養知識や世帯内の資源配分におけるジェンダーの偏りを是正する視点を組み込む取り組み。普及員が農家指導の際に栄養・ジェンダーに配慮した助言を行えるようにする。",
+      "effects": "Utilizationの主効果として、世帯内の栄養配分改善を通じた栄養状態向上に寄与する。副次的にAccessibility（女性の資源・意思決定へのアクセス改善）にも寄与しうる。Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "cat": "分野横断：技術",
+      "el": "A",
+      "t": "総合的土壌肥沃度管理（ISFM）・保全農業による地力回復と収量向上",
+      "tl": "中",
+      "td": "施肥設計・不耕起栽培等の技術研修",
+      "il": "小〜中",
+      "idt": "有機質資材・研修費",
+      "pl": "",
+      "pd": "不要",
+      "n": "土壌診断体制の有無に依存",
+      "overview": "ISFM（総合的土壌肥沃度管理）は、化学肥料と有機質資材（堆肥、緑肥、輪作等）を組み合わせて土壌の物理・化学・生物性を総合的に改善する手法。保全農業は不耕起または最小耕起、被覆作物・残渣による地表被覆、輪作の3原則を柱とし、土壌侵食を防ぎながら地力を維持する。両者を組み合わせ、地域の土壌診断結果に基づいた施肥設計と耕うん方法の見直しを行い、持続的な収量向上を図る。",
+      "effects": "Availability要素の主効果として、土壌の保水力・養分供給力が高まることで単収が向上し、供給量の増加に直接寄与する。土壌侵食の抑制は生産基盤の劣化を防ぎ、長期的な生産の安定化（Stability）にもつながる。投入コスト削減により農家の経済的余裕が生まれれば、多様な食品へのアクセス（Accessibility）向上にも間接的に寄与しうる。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "cat": "分野横断：技術",
+      "el": "A",
+      "t": "農地・家畜・水産を組み合わせた複合経営（統合農業システム）による総生産量の底上げ",
+      "tl": "中",
+      "td": "複合経営設計の専門知識",
+      "il": "中",
+      "idt": "初期設備・多角化投資",
+      "pl": "",
+      "pd": "不要",
+      "n": "農家の労働力・管理能力への負荷",
+      "overview": "農地作物・家畜・水産養殖を一つの経営内で組み合わせ、副産物や残渣を相互に活用する統合農業システム。例えば家畜糞尿を作物の堆肥や魚池の栄養源に利用し、稲作と養魚を組み合わせる稲魚複合等が典型例。単一品目への依存を減らし、限られた農地・水資源から複数の食料・収入源を生み出すことを狙う。",
+      "effects": "Availability要素の主効果として、同一資源から複数の生産物を得ることで総生産量が底上げされる。品目の多様化は生産変動リスクの分散（Stability向上）につながり、多様な栄養素を含む食品を自家消費できることでUtilization（食事多様性の改善）にも寄与する。Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "cat": "分野横断：技術",
+      "el": "A",
+      "t": "小規模灌漑・水利用効率化技術（点滴かんがい、雨水集水）の品目横断的な普及",
+      "tl": "中",
+      "td": "灌漑資機材の設置・維持技術",
+      "il": "中",
+      "idt": "資機材購入費（世帯〜数十万円規模）",
+      "pl": "一部必要",
+      "pd": "水利用に関する地域ルール",
+      "n": "水源の確保状況に依存",
+      "overview": "点滴かんがいや雨水集水タンク等、少量の水を効率的に作物に供給する技術群。パイプやチューブで作物の根元に直接給水する点滴かんがいは節水効果が高く、雨水集水は屋根や地表流出水を貯留し乾季の補助水源とする。特定品目に限らず、野菜・果樹・穀物など幅広い作物の作付けを可能にする基盤技術として品目横断的に導入できる。",
+      "effects": "Availability要素の主効果として、乾季や降雨不足時にも作付けが可能になり生産量・作付回数が増加する。年間を通じた安定的な水供給は生産の季節変動を緩和しStability向上に寄与する。野菜等の栄養価の高い作物の周年栽培が可能になればUtilization（食事多様性）にも波及しうる。Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "cat": "分野横断：技術",
+      "el": "A",
+      "t": "総合的病害虫管理（IPM）による収量ロスの削減",
+      "tl": "中",
+      "td": "病害虫同定・生物的防除等の専門知識",
+      "il": "小",
+      "idt": "研修・観察資材",
+      "pl": "",
+      "pd": "不要",
+      "n": "継続的なモニタリング体制",
+      "overview": "総合的病害虫管理（IPM）は、化学農薬のみに頼らず、天敵利用・抵抗性品種・輪作・耕種的防除・モニタリングを組み合わせて病害虫による被害を経済的被害許容水準以下に抑える管理手法。農家が圃場を定期観察し、発生状況に応じて防除手段を選択する意思決定プロセスを含む。",
+      "effects": "Availability要素の主効果として、病害虫による収量ロスを削減し実質的な生産量を確保する。過剰な農薬使用の抑制は残留農薬リスクを下げ食品安全（Utilization）にも寄与する。継続的なモニタリングによる早期発見は被害の急拡大を防ぎStability向上にもつながる。Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "cat": "分野横断：技術",
+      "el": "A",
+      "t": "アグロフォレストリー（樹木と作物・家畜の組み合わせ）による生産基盤の多様化",
+      "tl": "中",
+      "td": "樹種選定・植栽設計",
+      "il": "中",
+      "idt": "苗木・初期投資（成果発現まで数年）",
+      "pl": "一部必要",
+      "pd": "樹木の所有権・伐採規制との整合",
+      "n": "成果が出るまでの期間が長い",
+      "overview": "同一の土地で樹木と作物・家畜を組み合わせて栽培・飼養するアグロフォレストリー。果樹や有用樹を作物畑の畝間や周縁に植栽し、木陰・防風・土壌改良効果を得ながら、果実・木材・飼料等の複数の生産物を同時に得る。樹種選定や植栽配置の設計が導入の鍵となる。",
+      "effects": "Availability要素の主効果として、作物に加え果実・木材・飼料等の生産物が増え生産基盤が多様化する。複数の収穫源を持つことは天候不順や単一作物の不作リスクを分散しStability向上に寄与する。果樹による栄養価の高い食品の自家消費はUtilization向上にもつながる。Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "cat": "分野横断：技術",
+      "el": "B",
+      "t": "栄養に配慮したバリューチェーン開発アプローチ（生産多様性を消費多様性につなげる普及手法）",
+      "tl": "中",
+      "td": "バリューチェーン分析・栄養データ統合の専門知識",
+      "il": "中",
+      "idt": "プログラム設計・実施費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "生産者・加工業者・保健部門間の連携体制",
+      "overview": "生産段階の多様化を、加工・流通・販売を経て消費者の食事多様性向上につなげるための普及アプローチ。生産者・加工業者・流通業者・保健部門が連携し、栄養価の高い品目のバリューチェーン全体（生産・加工・保管・輸送・販売）を分析した上で、ボトルネックとなっている箇所に介入する。",
+      "effects": "Accessibility要素の主効果として、栄養価の高い食品が消費者の手に届きやすくなり入手可能性が高まる。バリューチェーンの効率化は流通ロスの削減につながりAvailability（実質的な供給量）向上にも寄与する。安定した流通経路の構築はStability向上にもつながる。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "cat": "分野横断：技術",
+      "el": "B",
+      "t": "女性のエンパワーメントを組み込んだ普及手法（WEAI等の指標を用いた設計）",
+      "tl": "中",
+      "td": "WEAI等の測定・分析手法",
+      "il": "小〜中",
+      "idt": "調査・研修費",
+      "pl": "一部必要",
+      "pd": "ジェンダー配慮を普及方針に位置付け",
+      "n": "地域社会の受容性（文化的規範との調整）",
+      "overview": "女性のエンパワーメント指標（WEAI：Women's Empowerment in Agriculture Index等）を用いて、意思決定への参加度や資源へのアクセス状況を測定し、その結果に基づいて普及活動の対象や内容を設計する手法。女性が生産・栄養に関する意思決定に関与しやすいよう、研修時間帯の調整やグループ形成支援等の工夫を組み込む。",
+      "effects": "Accessibility要素の主効果として、女性が資源や情報にアクセスしやすくなり、世帯内の食料配分改善にもつながる。女性は家庭内の食事管理を担うことが多く、エンパワーメントの向上はUtilization（食事の質・多様性）にも波及しやすい。世帯の意思決定が多様化することで収入や資源配分の安定にも寄与しStabilityにも一定の効果がある。Availabilityへの直接効果は限定的。",
+      "sources": [
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        },
+        {
+          "label": "WorldFish: A gendered approach to nutrition-sensitive homestead pond polyculture",
+          "url": "https://www.worldfishcenter.org/blog/gendered-approach-nutrition-sensitive-homestead-pond-polyculture"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "cat": "分野横断：技術",
+      "el": "B",
+      "t": "小規模加工・付加価値技術の移転による栄養価の高い食品の低価格化",
+      "tl": "中",
+      "td": "加工機材の操作・衛生管理技術",
+      "il": "中",
+      "idt": "加工機材購入費",
+      "pl": "一部必要",
+      "pd": "小規模加工業の登録・衛生規制",
+      "n": "電力等インフラへの依存",
+      "overview": "農産物を単純な生鮮品として販売するのではなく、乾燥・粉砕・搾油・発酵等の簡易な加工を施し付加価値をつけて販売する技術。小規模な加工機材を農家グループや小規模事業者に導入することで、栄養価の高い加工食品を低コストで生産し、地域市場に供給する。",
+      "effects": "Accessibility要素の主効果として、加工により保存性が高まり流通範囲が広がることで、栄養価の高い食品を低価格で入手できるようになる。加工技術は収穫後ロスの削減にもつながりAvailability向上にも寄与する。保存期間の延長は端境期の食料供給の安定化（Stability）にもつながる。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "cat": "分野横断：技術",
+      "el": "B",
+      "t": "自家消費用の多品目栽培・飼養を促す普及メッセージ",
+      "tl": "低",
+      "td": "普及メッセージ設計",
+      "il": "小",
+      "idt": "普及活動費",
+      "pl": "",
+      "pd": "不要",
+      "n": "換金作物優先志向からの意識転換が課題",
+      "overview": "換金作物への偏重を見直し、家庭菜園や小規模畜産を通じて多品目の作物・家畜を自家消費用に生産するよう促す普及メッセージ・指導手法。野菜・豆類・果樹・小家畜等を組み合わせた自家消費用の生産計画を農家とともに立て、収穫物の一部を家庭の食事に取り入れることを働きかける。",
+      "effects": "Accessibility要素の主効果として、市場を介さずに多様な食品を家庭内で直接入手できるようになり、現金収入に左右されない食料アクセスが確保される。多品目化は自家消費される栄養素の幅を広げUtilization（食事多様性）向上にも直結する。単一作物依存からの転換は収入・食料源の分散につながりStability向上にも寄与する。Availabilityへの直接効果は相対的に小さい。",
+      "sources": [
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "cat": "分野横断：技術",
+      "el": "C",
+      "t": "農業気象情報サービス・早期警戒システム（干ばつ・豪雨・病害虫発生予測）",
+      "tl": "高",
+      "td": "気象データ解析・予測モデル",
+      "il": "大",
+      "idt": "観測網・システム構築",
+      "pl": "必須",
+      "pd": "気象情報の公的提供体制",
+      "n": "農家への伝達網（携帯電話・ラジオ等）",
+      "overview": "気象観測データを解析し、干ばつ・豪雨・病害虫の発生を事前に予測して農家に伝える情報サービス。衛星データや地上観測網から得た情報を予測モデルで処理し、携帯電話のショートメッセージやラジオ放送等を通じて農家に警報・作付け助言として届ける。",
+      "effects": "Stability要素の主効果として、天候急変や病害虫発生に事前対応できることで、生産変動の抑制と急激な食料供給の落ち込みを防ぐ。早期の警戒情報に基づき適切な時期に作付け・収穫を行えることはAvailability（実質的な収量）向上にも寄与する。被害軽減による農家所得の安定はAccessibility向上にもつながりうる。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "cat": "分野横断：技術",
+      "el": "C",
+      "t": "越境性病害虫・疾病への監視体制（バッタ、アワヨトウ（Fall Armyworm）、鳥インフルエンザ、豚熱等の早期検知・防疫プロトコル）",
+      "tl": "高",
+      "td": "疾病・害虫の診断技術、サーベイランス手法",
+      "il": "大",
+      "idt": "監視ネットワーク・検査体制",
+      "pl": "必須",
+      "pd": "国際基準に基づく通報・検疫制度",
+      "n": "近隣国との情報共有体制",
+      "overview": "バッタ（サバクトビバッタ等）、アワヨトウ（Fall Armyworm）、鳥インフルエンザ、豚熱等、国境を越えて急速に拡大しうる病害虫・家畜疾病を早期に検知し、防疫措置につなげる監視体制。定点調査やサーベイランス、簡易診断キットによる現場確認を組み合わせ、発生確認時には速やかに関係機関へ通報する仕組みを構築する。",
+      "effects": "Stability要素の主効果として、越境性の病害虫・疾病の急激な蔓延を防ぎ、生産基盤の壊滅的な損失を回避する。被害の未然防止はAvailability（供給量の維持）に直接寄与する。近隣国との情報共有は地域全体の防疫水準を高め、長期的な生産の安定にもつながる。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "ACIAR: Village chickens, poverty alleviation and Newcastle disease vaccination",
+          "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/11133/pr131_pdf_20619.pdf"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "cat": "分野横断：技術",
+      "el": "C",
+      "t": "気候変動適応型品種・系統の育種技術基盤（耐乾性・耐水性・耐熱性の育種プラットフォーム。具体的な品種は各品目行に記載）",
+      "tl": "高",
+      "td": "育種・遺伝資源管理の専門技術",
+      "il": "大",
+      "idt": "研究機関への長期投資",
+      "pl": "必須",
+      "pd": "品種登録・知的財産制度",
+      "n": "育種期間の長さ（10年単位）",
+      "overview": "耐乾性・耐水性・耐熱性など気候変動への適応力を持つ品種・系統を開発するための育種プラットフォームそのものを指し、個別品種の開発は各品目の行で扱う。遺伝資源の収集・評価、交配・選抜、地域適応性試験までを含む長期的な研究基盤の整備を意味する。",
+      "effects": "Stability要素の主効果として、異常気象下でも一定の収量を確保できる品種基盤が整い、生産の年次変動を緩和する。気候変動下でも安定した単収を維持できることはAvailability向上にも直接つながる。長期的には栄養価を考慮した育種と組み合わせることでUtilization向上にも波及しうる。Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "HarvestPlus: Twenty Years of Enriching Diets with Biofortification",
+          "url": "https://www.harvestplus.org/twenty-years-of-enriching-diets-with-biofortification/"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "cat": "分野横断：技術",
+      "el": "C",
+      "t": "天候インデックス保険等のリスク移転技術",
+      "tl": "高",
+      "td": "保険設計・気象データ分析",
+      "il": "中",
+      "idt": "商品開発費用",
+      "pl": "必須",
+      "pd": "保険業規制",
+      "n": "農家の保険加入率向上への継続的働きかけ",
+      "overview": "実際の被害査定ではなく、降雨量や気温等の気象指標があらかじめ定めた基準値を下回った（あるいは上回った）場合に自動的に保険金を支払う仕組み。査定コストを抑えられるため小規模農家でも加入しやすく、干ばつや洪水等の天候リスクを金融的に移転する手段として設計される。",
+      "effects": "Stability要素の主効果として、天候不順による収入・生産の急落を補填し、農家の生活・生産基盤を保護する。保険金により再生産のための投入財を確保できればAvailability（翌作の生産量）維持にも寄与する。損失補填を通じた家計の安定はAccessibility（食料購入力の維持）にもつながる。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "cat": "分野横断：技術",
+      "el": "C",
+      "t": "生産システムの多様化によるリスク分散（単一品目依存からの脱却）",
+      "tl": "低",
+      "td": "多様化に向けた栽培・飼養技術の組み合わせ",
+      "il": "小〜中",
+      "idt": "新規品目導入費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "農家の意識転換（単一品目への慣れからの脱却）",
+      "overview": "単一品目への依存から脱却し、複数の作物・家畜を組み合わせて生産する体系に転換する取り組み。特定の技術というより、栽培・飼養技術を組み合わせて経営全体のポートフォリオを多様化する考え方であり、天候不順や市場価格の変動、病害虫の発生等、特定のリスクが経営全体に及ぼす影響を緩和する。",
+      "effects": "Stability要素の主効果として、一つの品目が不作・不振に陥っても他の品目で補えるため、生産・収入の変動が緩和される。多様な品目の生産はAvailabilityとUtilization（食事多様性）の両方にも波及効果を持つ。市場変動への耐性が高まることはAccessibility（購買力の維持）にも間接的に寄与する。",
+      "sources": [
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "cat": "分野横断：技術",
+      "el": "D",
+      "t": "バイオフォーティフィケーション（微量栄養素強化）の育種技術基盤（品目別の具体的品種は各品目行に記載）",
+      "tl": "高",
+      "td": "育種技術、微量栄養素分析",
+      "il": "大",
+      "idt": "研究機関投資",
+      "pl": "必須",
+      "pd": "品種普及の公的承認",
+      "n": "消費者受容性（見た目・味の違いへの抵抗感）",
+      "overview": "品種改良によって作物に鉄分・亜鉛・ビタミンA等の微量栄養素を高濃度に含ませるための育種技術基盤。個別の強化品種（オレンジ色サツマイモ、高鉄分豆類等）は各品目の行に記載されており、ここではその開発を支える育種・分析技術の基盤整備を扱う。",
+      "effects": "Utilization要素の主効果として、通常品種と同じ量を食べても摂取できる微量栄養素量が増え、栄養状態の改善に直接寄与する。既存の作付け体系を大きく変えずに導入できるため、生産量（Availability）への影響は中立的である。安定した栄養供給源としてStability向上にも一定寄与する。Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "HarvestPlus: Twenty Years of Enriching Diets with Biofortification",
+          "url": "https://www.harvestplus.org/twenty-years-of-enriching-diets-with-biofortification/"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "cat": "分野横断：技術",
+      "el": "D",
+      "t": "食品安全技術パターン（アフラトキシン生物的防除（Aflasafe等）、HACCPに基づく衛生管理手法）",
+      "tl": "高",
+      "td": "生物的防除剤の開発・適用技術、HACCP運用知識",
+      "il": "中",
+      "idt": "資材・研修費",
+      "pl": "一部必要",
+      "pd": "食品安全基準への組み込み",
+      "n": "サプライチェーン全体での一貫した導入が必要",
+      "overview": "アフラトキシン等のカビ毒汚染を生物的防除剤（Aflasafe等の非毒性菌株を用いた土壌処理）で抑制する技術や、HACCP（危害分析重要管理点）の考え方に基づき収穫・保管・加工の各工程で汚染リスクを管理する手法を指す。汚染が発生しやすい工程を特定し、そこに重点的な管理措置を講じる。",
+      "effects": "Utilization要素の主効果として、汚染食品の摂取を防ぎ栄養素の実質的な吸収・健康状態を守る。アフラトキシン汚染による廃棄の削減はAvailability（実質的な供給量）向上にも寄与する。安全な食品の安定供給はサプライチェーン全体の信頼性を高めStability向上にもつながる。Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "IDRC: Post-Harvest Management Technologies for Reducing Aflatoxin Contamination in Maize",
+          "url": "https://idrc-crdi.ca/en/what-we-do/projects-we-support/project/post-harvest-management-technologies-reducing-aflatoxin"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "cat": "分野横断：技術",
+      "el": "D",
+      "t": "収穫後加工技術（天日・ソーラー乾燥、パーボイル処理等）による栄養素保持",
+      "tl": "中",
+      "td": "乾燥・加工機材の操作技術",
+      "il": "小〜中",
+      "idt": "機材購入費",
+      "pl": "",
+      "pd": "不要",
+      "n": "天候条件への依存（天日乾燥の場合）",
+      "overview": "天日乾燥やソーラー乾燥機、コメのパーボイル処理（籾を蒸煮してから乾燥・精米する加工）等、収穫後に施す加工技術。急速な乾燥や熱処理により微生物の繁殖や品質劣化を抑え、精米・製粉時に失われやすいビタミン・ミネラルを穀粒内に保持する効果もある。",
+      "effects": "Utilization要素の主効果として、加工過程での栄養素の損失を抑え、実際に摂取できる栄養価を高める。乾燥による保存性向上は腐敗・虫害によるロス削減につながりAvailability向上にも直接寄与する。保存期間の延長は端境期の供給を支えStability向上にもつながる。Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        },
+        {
+          "label": "PMC: Reducing Postharvest Losses during Storage of Grain Crops to Strengthen Food Security in Developing Countries",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5296677/"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "cat": "分野横断：技術",
+      "el": "D",
+      "t": "コールドチェーン技術パターン（保冷・保冷剤利用、ソーラー冷蔵）",
+      "tl": "中",
+      "td": "冷却設備の設置・維持管理技術",
+      "il": "中〜大",
+      "idt": "設備投資（電力インフラ依存）",
+      "pl": "一部必要",
+      "pd": "コールドチェーン基準の整備",
+      "n": "電力アクセスへの強い依存",
+      "overview": "保冷剤や簡易保冷容器の利用、ソーラー発電を用いた冷蔵設備等、生鮮食品を低温に保ちながら流通させるための一連の技術。収穫直後から市場・消費者に届くまでの温度管理を途切れさせないことで、鮮度と栄養価を保った状態で食品を届けることを目指す。",
+      "effects": "Utilization要素の主効果として、低温流通により栄養素の分解・劣化を抑え、消費者が摂取する時点での栄養価を高める。腐敗による廃棄の削減はAvailability向上に直接寄与する。流通可能な距離・期間が延びることで供給の季節変動が緩和されStability向上にもつながる。Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "cat": "分野横断：技術",
+      "el": "D",
+      "t": "栄養教育・行動変容コミュニケーション（SBCC）手法の普及員向けツール化",
+      "tl": "中",
+      "td": "SBCC手法・教材開発",
+      "il": "小〜中",
+      "idt": "教材開発・研修費",
+      "pl": "",
+      "pd": "不要",
+      "n": "普及員の栄養知識のベースライン",
+      "overview": "行動変容コミュニケーション（SBCC：Social and Behavior Change Communication）の手法を、普及員が現場で使いやすいよう教材・チェックリスト・実演手順等の形にまとめる取り組み。栄養バランスの取れた食事の作り方や離乳食の与え方等、行動変容を促すメッセージを農家世帯に効果的に伝える普及員向けのツールを開発・研修する。",
+      "effects": "Utilization要素の主効果として、家庭での食品選択・調理・配分方法の改善を通じて実際の栄養摂取・食事多様性を高める。栄養知識の普及は自家生産物の消費促進にもつながりAccessibility（自家消費を通じた実質的な入手可能性）向上にも寄与しうる。Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "cat": "分野横断：技術",
+      "el": "D",
+      "t": "農業と衛生（WASH）を統合した技術ガイドライン（安全な水の利用、汚染防止）",
+      "tl": "中",
+      "td": "WASH技術との統合設計",
+      "il": "中",
+      "idt": "水・衛生設備投資",
+      "pl": "一部必要",
+      "pd": "WASHとの制度連携",
+      "n": "所管省庁が分かれるため部門間調整が必要",
+      "overview": "農業活動と水・衛生（WASH：Water, Sanitation and Hygiene）を統合したガイドライン。灌漑用水の安全な利用、家畜飼養場周辺の衛生管理、収穫物の洗浄水の水質確保等、農業生産の過程で生じうる汚染経路を断つための実践指針を整理し、普及員が農業指導と併せて衛生指導を行えるようにする。",
+      "effects": "Utilization要素の主効果として、農業由来の水系感染症や汚染を防ぎ、栄養摂取が実際の健康状態改善に結びつきやすくなる。安全な水利用は生産物の品質劣化防止にもつながりAvailability（実質的な供給量）にも一定寄与する。衛生状態の改善は病気による生産活動の中断を防ぎStability向上にもつながる。Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "cat": "分野横断：技術",
+      "el": "D",
+      "t": "飼料と食用穀物の競合への配慮：家禽・養豚等で穀物依存度の高い飼料設計は「量」の確保と競合しうるため、非慣行飼料資源への転換を検討する必要がある（具体策は畜産・水産の各該当行に記載）",
+      "tl": "低",
+      "td": "注意喚起・代替飼料の情報提供",
+      "il": "小",
+      "idt": "普及資料作成",
+      "pl": "",
+      "pd": "不要",
+      "n": "具体策は畜産・水産の各該当行を参照",
+      "overview": "トウモロコシ等の食用穀物を家禽・養豚等の飼料原料として大量に使用すると、人の食料供給と飼料需要が競合し、穀物価格の上昇や供給不足を招く恐れがある。この項目は特定の技術というより、飼料設計の際に穀物依存度を評価し、稲わら・ふすま・魚粉代替資源等の非慣行飼料資源への転換を検討すべきという留意事項・視点を示すもので、具体的な代替技術は畜産・水産の各該当行に記載される。",
+      "effects": "Availability要素の主効果として、食用穀物と飼料穀物の競合を回避することで人向けの穀物供給量を確保する。非慣行飼料資源の活用が進めば畜産・水産部門の生産コスト低減を通じてAccessibility（畜産物価格の抑制）にも間接的に寄与しうる。穀物価格変動への耐性が高まることはStability向上にもつながる。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "PMC: Improving adoption of technologies and interventions for increasing supply of quality livestock feed in LMICs",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726233/"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "cat": "主食",
+      "el": "A",
+      "t": "高収量・気候変動耐性品種の導入（耐乾性トウモロコシ、耐水性・耐塩性イネ品種等）",
+      "tl": "中",
+      "td": "品種選定・栽培技術指導",
+      "il": "小",
+      "idt": "種子購入費",
+      "pl": "一部必要",
+      "pd": "品種の公的承認・種子流通許可",
+      "n": "地域の気候適合性の事前検証",
+      "overview": "干ばつや冠水など気候変動に強い高収量品種（耐乾性トウモロコシ、耐水性・耐塩性イネなど）を選定し、種子供給網や普及指導を通じて農家に導入する取り組み。品種特性に応じた栽培管理（播種時期、施肥、水管理）の技術指導とあわせて実施することで、単収の底上げと気象リスクへの適応を同時に図る。",
+      "effects": "Availability（供給量）の増加に直接寄与し、単収向上により主食の総生産量を押し上げる。あわせてStability（安定性）にも寄与し、干ばつ・洪水年でも収量の落ち込みを緩和する。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "cat": "主食",
+      "el": "A",
+      "t": "マメ類・雑穀（ソルガム、ミレット等）との輪作・間作によるでんぷん質偏重からの脱却と栄養バランス改善",
+      "tl": "低",
+      "td": "輪作設計の技術指導",
+      "il": "小",
+      "idt": "種子・研修費",
+      "pl": "",
+      "pd": "不要",
+      "n": "農家の作付け慣行の転換",
+      "overview": "トウモロコシや米などでんぷん質主食への依存を減らすため、ソルガムやミレットなどの雑穀、あるいはマメ類を同じ圃場で輪作・間作する栽培体系を導入する取り組み。作付け計画や作付けカレンダーの見直しを伴い、栄養価の高い作物を主食体系に組み込むことで食事の多様化を図る。",
+      "effects": "Availability（供給量）の増加に直接寄与し、主食以外の栄養源となる作物の生産量を増やす。Utilization（利用）にも波及し、家庭内での食事多様性向上につながる。Accessibility・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "cat": "主食",
+      "el": "A",
+      "t": "収穫後ロス削減技術（密閉貯蔵容器（PICSバッグ等）、金属サイロ、改良乾燥技術）による実質供給量の増加",
+      "tl": "低",
+      "td": "資機材の使用方法",
+      "il": "小",
+      "idt": "資機材購入費（世帯〜数千円規模）",
+      "pl": "",
+      "pd": "不要",
+      "n": "資機材の現地調達可能性",
+      "overview": "密閉貯蔵容器（PICSバッグ等）、金属サイロ、改良乾燥技術など、収穫後の主食穀物の損失を防ぐ資機材・手法を導入する取り組み。害虫や湿気によるカビ・腐敗を防ぎ、収穫した作物を実際に消費・販売できる量として保全することで、収穫量を増やさずに実質的な供給量を底上げする。",
+      "effects": "Availability（供給量）の増加に直接寄与し、収穫後ロスの削減分がそのまま実質供給量の増加となる。Stability（安定性）にも寄与し、貯蔵性向上により端境期までの食料確保が安定する。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "PMC: Reducing Postharvest Losses during Storage of Grain Crops to Strengthen Food Security in Developing Countries",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5296677/"
+        },
+        {
+          "label": "IDRC: Post-Harvest Management Technologies for Reducing Aflatoxin Contamination in Maize",
+          "url": "https://idrc-crdi.ca/en/what-we-do/projects-we-support/project/post-harvest-management-technologies-reducing-aflatoxin"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "cat": "主食",
+      "el": "A",
+      "t": "キャッサバ・サツマイモ等根茎作物の高収量品種・栽培技術の普及",
+      "tl": "中",
+      "td": "挿し木・苗の増殖技術",
+      "il": "小",
+      "idt": "苗・研修費",
+      "pl": "",
+      "pd": "不要",
+      "n": "害虫（ゾウムシ等）対策との組み合わせが必要",
+      "overview": "キャッサバやサツマイモなどの根茎作物について、高収量品種や病害虫抵抗性品種、健全な挿し木・苗の増殖・配布体制を整え、栽培技術とあわせて普及する取り組み。穀物に依存しない主食源の多様化と単収向上を同時に進める。",
+      "effects": "Availability（供給量）の増加に直接寄与し、根茎作物の生産量拡大を通じて主食供給を底上げする。Stabilityにも一定寄与し、干ばつ耐性の高い根茎作物は気候変動下での供給の緩衝材となる。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "cat": "主食",
+      "el": "A",
+      "t": "肥料・土壌改良資材へのアクセス改善（品目特化型の施肥設計）",
+      "tl": "低",
+      "td": "施肥技術指導",
+      "il": "中",
+      "idt": "肥料購入費（継続的支出）",
+      "pl": "一部必要",
+      "pd": "肥料補助制度",
+      "n": "肥料流通網の整備状況に依存",
+      "overview": "主食作物の品目特性に応じた施肥設計（施肥量・時期・肥料種類）を普及し、あわせて肥料や堆肥・石灰などの土壌改良資材を農家が入手しやすくする取り組み。流通網の整備や補助制度と組み合わせて実施されることが多い。",
+      "effects": "Availability（供給量）の増加に直接寄与し、適正施肥による単収向上を通じて主食生産量を押し上げる。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "cat": "主食",
+      "el": "B",
+      "t": "主食用種子システムへのアクセス（コミュニティ種子バンク、認証種子の流通網）",
+      "tl": "低",
+      "td": "種子バンク運営",
+      "il": "小〜中",
+      "idt": "種子バンク運営費",
+      "pl": "一部必要",
+      "pd": "種子認証制度",
+      "n": "コミュニティの組織力",
+      "overview": "コミュニティ種子バンクの設立・運営や、認証種子を農家が入手できる流通網の整備を通じて、質の良い種子への物理的・経済的アクセスを改善する取り組み。共同管理による種子の保管・貸与・更新の仕組みづくりを含む。",
+      "effects": "Accessibility（アクセス）の改善に直接寄与し、種子の入手性向上を通じて農家の作付け選択肢を広げる。Availabilityにも波及し、良質種子の普及が単収向上を通じて供給量増加につながる。Stability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "cat": "主食",
+      "el": "B",
+      "t": "投入財補助・バウチャー制度（貧困層向けの種子・肥料アクセス支援）",
+      "tl": "低",
+      "td": "バウチャー運用",
+      "il": "大",
+      "idt": "継続的な財政負担",
+      "pl": "必須",
+      "pd": "補助制度の法整備・財源確保",
+      "n": "対象者選定の公平性",
+      "overview": "貧困層の農家が種子・肥料等の投入財を購入できるよう、政府や援助機関が補助金やバウチャーを提供する制度。対象世帯に配布されたバウチャーを認定販売店で投入財と交換する仕組みが一般的。",
+      "effects": "Accessibility（アクセス）の改善に直接寄与し、経済的制約を抱える農家の投入財入手を後押しする。Availabilityにも波及し、投入財利用の拡大を通じて生産量増加につながる。Stability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "cat": "主食",
+      "el": "B",
+      "t": "主食の価格アクセシビリティ確保（貧困層向けの的を絞った価格支援・配給制度）",
+      "tl": "低",
+      "td": "配給・価格支援の運用",
+      "il": "大",
+      "idt": "価格支援の財源",
+      "pl": "必須",
+      "pd": "価格政策・配給制度",
+      "n": "市場歪曲のリスクへの配慮",
+      "overview": "貧困層を対象に、主食の購入価格を抑える価格支援策や配給制度を導入する取り組み。的を絞った現金給付、価格補助、公的配給網を通じた低価格販売などの手法がある。",
+      "effects": "Accessibility（アクセス）の改善に直接寄与し、貧困層の経済的な主食入手能力を高める。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "cat": "主食",
+      "el": "B",
+      "t": "女性が主食生産の意思決定・資源配分に関与できる普及設計",
+      "tl": "低",
+      "td": "ジェンダー配慮型普及手法",
+      "il": "小",
+      "idt": "普及員研修費",
+      "pl": "",
+      "pd": "不要",
+      "n": "社会的規範の変化を伴う",
+      "overview": "普及活動の設計自体にジェンダー配慮を組み込み、女性が種子選択・施肥・収穫後管理などの意思決定や資源配分に実質的に関与できるようにする取り組み。女性農業者向け研修グループの設置や、女性普及員の配置などを含む。",
+      "effects": "Accessibility（アクセス）の改善に直接寄与し、女性が投入財や技術情報へアクセスする機会を広げる。Utilizationにも波及し、女性の意思決定関与が高まることで世帯内の栄養配分改善につながりやすい。Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "cat": "主食",
+      "el": "C",
+      "t": "コミュニティ穀物備蓄・農家貯蔵による端境期の需給平準化（年間を通じた供給の橋渡し）",
+      "tl": "低",
+      "td": "貯蔵技術",
+      "il": "小〜中",
+      "idt": "貯蔵施設建設費",
+      "pl": "",
+      "pd": "不要",
+      "n": "ガバナンス（管理・分配の透明性）",
+      "overview": "収穫直後の余剰分をコミュニティや農家レベルで貯蔵し、端境期（収穫前で食料が不足しやすい時期）に放出することで、年間を通じた供給の平準化を図る取り組み。貯蔵施設の建設と管理運営体制の構築を伴う。",
+      "effects": "Stability（安定性）の向上に直接寄与し、端境期の需給ギャップを埋め年間を通じた供給の変動を抑える。Availabilityにも一定寄与し、ロス削減を伴う貯蔵は実質供給量を増やす。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "PMC: Reducing Postharvest Losses during Storage of Grain Crops to Strengthen Food Security in Developing Countries",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5296677/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "cat": "主食",
+      "el": "C",
+      "t": "耐乾性・耐水性品種の作付け拡大による気象災害への強靭性向上",
+      "tl": "中",
+      "td": "品種選定",
+      "il": "小",
+      "idt": "種子費用",
+      "pl": "一部必要",
+      "pd": "品種普及の承認",
+      "n": "B7の耐性品種導入と連動",
+      "overview": "干ばつや冠水などの気象災害に強い品種の作付け面積を計画的に拡大し、地域全体としての生産の強靭性を高める取り組み。品種選定にあたっては、no46の高収量・気候変動耐性品種の導入と連動して進めることが多い。",
+      "effects": "Stability（安定性）の向上に直接寄与し、気象災害時の収量変動を抑える。Availabilityにも波及し、平年時の単収向上にもつながる。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "cat": "主食",
+      "el": "C",
+      "t": "天候インデックス保険等、主食生産者向けのリスク移転手段",
+      "tl": "高",
+      "td": "保険設計",
+      "il": "中",
+      "idt": "商品開発費用",
+      "pl": "必須",
+      "pd": "保険業規制",
+      "n": "分野横断：制度・基盤の保険制度を参照",
+      "overview": "降雨量や気温など客観的な気象指標に連動して保険金が支払われる天候インデックス保険を、主食生産者向けに設計・提供する取り組み。干ばつや洪水による収量減少がもたらす経済的打撃を緩和する金融的なセーフティネットとして機能する。",
+      "effects": "Stability（安定性）の向上に直接寄与し、気象災害時の農家所得の急落を防ぐ。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "cat": "主食",
+      "el": "C",
+      "t": "国家備蓄・輸入代替政策の主食分野への適用（制度設計自体は「分野横断：制度・基盤」を参照）",
+      "tl": "低",
+      "td": "制度運用",
+      "il": "大",
+      "idt": "国家財政",
+      "pl": "必須",
+      "pd": "制度骨格は「分野横断：制度・基盤」を参照",
+      "n": "—",
+      "overview": "国家レベルでの主食穀物備蓄や、輸入依存を減らすための国内生産振興策を、主食分野の実情に合わせて適用する取り組み。制度設計自体は分野横断的な「制度・基盤」領域の枠組みに基づく。",
+      "effects": "Stability（安定性）の向上に直接寄与し、国際市場の価格変動や供給ショックから国内供給を守る。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "cat": "主食",
+      "el": "C",
+      "t": "アウトグロワー契約・買取保証による価格変動リスクの軽減",
+      "tl": "低",
+      "td": "契約管理",
+      "il": "小〜中",
+      "idt": "契約管理体制",
+      "pl": "一部必要",
+      "pd": "契約履行の法的枠組み",
+      "n": "買い手企業との関係構築",
+      "overview": "加工業者や仲買企業が生産開始前に農家と契約を結び、一定価格・数量での買取を保証する仕組み。農家は市場価格変動リスクを軽減しつつ安定した販路を確保でき、企業側も原料調達を安定化できる。",
+      "effects": "Stability（安定性）の向上に直接寄与し、価格変動による農家収入の不安定化を防ぐ。Accessibilityにも一定寄与し、安定した収入が投入財購入力の向上につながる。Availability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "cat": "主食",
+      "el": "D",
+      "t": "バイオフォーティフィケーション品種の普及（高鉄インゲン豆、高亜鉛小麦・トウモロコシ、ビタミンA強化オレンジトウモロコシ・キャッサバ・サツマイモ、高リジン品質たんぱくトウモロコシ（QPM）等）",
+      "tl": "中",
+      "td": "品種の特性理解・栽培指導",
+      "il": "小",
+      "idt": "種子費用は既存品種と同程度",
+      "pl": "必須",
+      "pd": "品種の公的承認・普及政策への位置付け",
+      "n": "消費者の受容性（色・食味の違い）",
+      "overview": "高鉄インゲン豆、高亜鉛小麦・トウモロコシ、ビタミンA強化オレンジトウモロコシ・キャッサバ・サツマイモ、高リジン品質たんぱくトウモロコシ（QPM）など、従来育種によって微量栄養素含有量を高めた品種を農家に普及する取り組み。既存品種と同様の栽培管理で導入できる点が特徴。",
+      "effects": "Utilization（利用）の向上に直接寄与し、日常的に食べる主食そのものの栄養価を高める。Availabilityへの副次的効果は限定的で、収量は既存品種と概ね同等。Accessibility・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "HarvestPlus: Twenty Years of Enriching Diets with Biofortification",
+          "url": "https://www.harvestplus.org/twenty-years-of-enriching-diets-with-biofortification/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "cat": "主食",
+      "el": "D",
+      "t": "製粉・精米工程での栄養損失対策（精米・精粉度の見直し、全粒穀物の利用促進）",
+      "tl": "中",
+      "td": "精米度調整技術",
+      "il": "小〜中",
+      "idt": "製粉機の調整・改修",
+      "pl": "一部必要",
+      "pd": "精米基準の見直し",
+      "n": "消費者の嗜好（白米・精製粉志向）との調整",
+      "overview": "精米・精粉の度合いを見直し、胚芽やぬか層に含まれる栄養素の損失を抑える、あるいは全粒穀物の利用を促進する取り組み。製粉・精米業者への技術指導や設備調整を伴う。",
+      "effects": "Utilization（利用）の向上に直接寄与し、加工段階での栄養素損失を減らし摂取可能な栄養価を高める。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "cat": "主食",
+      "el": "D",
+      "t": "小規模・産業用フォーティフィケーション技術（小麦粉・トウモロコシ粉への鉄・葉酸・ビタミン類プレミックス添加）",
+      "tl": "高",
+      "td": "プレミックス配合・品質管理技術",
+      "il": "中〜大",
+      "idt": "製粉業者の設備投資",
+      "pl": "必須",
+      "pd": "フォーティフィケーション義務化法制",
+      "n": "分野横断：制度・基盤の義務化制度と連動",
+      "overview": "小麦粉・トウモロコシ粉などの主食原料に、鉄・葉酸・ビタミン類などのプレミックスを製粉工程で添加する技術。産業用の大規模製粉施設だけでなく、小規模製粉所向けの簡易添加装置も含む。",
+      "effects": "Utilization（利用）の向上に直接寄与し、日常的な主食摂取を通じた微量栄養素補給を可能にする。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "cat": "主食",
+      "el": "D",
+      "t": "パーボイル処理（籾米の予備加熱処理）によるビタミンB群等の保持",
+      "tl": "中",
+      "td": "処理工程の技術習得",
+      "il": "小〜中",
+      "idt": "処理設備",
+      "pl": "",
+      "pd": "不要",
+      "n": "地域の食習慣（パーボイル米への受容性）",
+      "overview": "籾米を精米前に浸漬・蒸煮・乾燥するパーボイル処理を施すことで、糠層のビタミンB群等が胚乳部に移行し、精米後も栄養素が保持されやすくなる加工技術。",
+      "effects": "Utilization（利用）の向上に直接寄与し、精米による栄養損失を軽減する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "cat": "主食",
+      "el": "D",
+      "t": "カビ毒（アフラトキシン等）対策技術（生物的防除、乾燥・貯蔵時の水分管理、簡易検査キット）",
+      "tl": "高",
+      "td": "生物的防除・検査技術",
+      "il": "中",
+      "idt": "検査キット・防除剤",
+      "pl": "一部必要",
+      "pd": "カビ毒基準の設定",
+      "n": "乾燥・貯蔵条件（湿度管理）への依存",
+      "overview": "トウモロコシや落花生等に発生するアフラトキシンなどのカビ毒汚染を防ぐため、生物的防除（無毒株を利用した競合排除）、乾燥・貯蔵時の水分管理、簡易検査キットによるモニタリングを組み合わせて実施する取り組み。",
+      "effects": "Utilization（利用）の向上に直接寄与し、汚染された主食の摂取による健康被害を防ぎ安全な栄養摂取を確保する。Availabilityにも一定寄与し、汚染による廃棄ロスを減らす。Accessibility・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "IDRC: Post-Harvest Management Technologies for Reducing Aflatoxin Contamination in Maize",
+          "url": "https://idrc-crdi.ca/en/what-we-do/projects-we-support/project/post-harvest-management-technologies-reducing-aflatoxin"
+        },
+        {
+          "label": "PMC: Reducing Postharvest Losses during Storage of Grain Crops to Strengthen Food Security in Developing Countries",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5296677/"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "cat": "主食",
+      "el": "D",
+      "t": "主食を原料とした栄養強化補完食（乳幼児向けフォーティファイド・ブレンド粉）の製造技術",
+      "tl": "高",
+      "td": "食品加工・配合技術",
+      "il": "中〜大",
+      "idt": "加工設備",
+      "pl": "一部必要",
+      "pd": "乳幼児食品の安全基準",
+      "n": "対象世帯への普及・受容性",
+      "overview": "主食穀物を原料に、乳幼児向けの栄養強化ブレンド粉（フォーティファイド・ブレンド粉）を製造する加工技術。原料の配合設計、栄養素添加、加熱・粉砕等の加工工程の確立を含む。",
+      "effects": "Utilization（利用）の向上に直接寄与し、離乳期の乳幼児に必要な栄養素を効率的に補給できる。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "cat": "野菜・果実",
+      "el": "A",
+      "t": "栄養価の高い在来野菜の種子保全・増殖システム",
+      "tl": "中",
+      "td": "採種・保存技術",
+      "il": "小",
+      "idt": "採種圃場",
+      "pl": "",
+      "pd": "不要",
+      "n": "在来品種の遺伝的多様性の保全",
+      "overview": "在来野菜（伝統的な地場野菜）の種子を農家自身やコミュニティが選別・保存し、次作用に増殖・配布する仕組み。単なる種子交換にとどまらず、採種圃場の設置、乾燥・保管方法の指導、品種台帳の整備などを通じて、多様な在来品種の種子を継続的に確保できるようにする。",
+      "effects": "Availability：地域固有の栄養価の高い野菜の作付け機会を維持し、供給の多様化に直接寄与する。Utilization：在来野菜はビタミンAや鉄分等の微量栄養素が豊富な品種を含むことが多く、食事多様性の向上にも波及する。Accessibility：市販種子への依存を減らし低コストで種子を入手できるようになる。Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "HarvestPlus: Twenty Years of Enriching Diets with Biofortification",
+          "url": "https://www.harvestplus.org/twenty-years-of-enriching-diets-with-biofortification/"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "cat": "野菜・果実",
+      "el": "A",
+      "t": "小規模灌漑技術（ドリップキット、足踏みポンプ）による周年生産の実現",
+      "tl": "中",
+      "td": "設置・維持技術",
+      "il": "小〜中",
+      "idt": "資機材購入費",
+      "pl": "",
+      "pd": "不要",
+      "n": "水源確保",
+      "overview": "低コストの点滴灌漑キットや足踏み式ポンプなど小規模灌漑資機材を導入し、雨季だけでなく乾季にも野菜・果樹栽培を可能にする技術。水源から圃場への揚水・配水を人力や小型ポンプで行い、少量の水で効率的に潅水することで乾季の作付けを実現する。",
+      "effects": "Availability：乾季を含む周年生産を可能にし、供給量の増加に直接寄与する。Stability：雨季・乾季による生産変動を緩和し、年間を通じた供給の安定化に貢献する。Accessibility：市場向け出荷の増加による収入向上を通じて経済的アクセスにも間接的に寄与する。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "cat": "野菜・果実",
+      "el": "A",
+      "t": "果樹・野菜への総合的病害虫管理（IPM）の適用",
+      "tl": "中",
+      "td": "病害虫同定・防除技術",
+      "il": "小",
+      "idt": "研修・資材費",
+      "pl": "",
+      "pd": "不要",
+      "n": "継続的モニタリング",
+      "overview": "化学農薬に過度に依存せず、天敵利用・耕種的防除・物理的防除・農薬の適正使用を組み合わせて病害虫を管理する総合的病害虫管理（IPM）を果樹・野菜栽培に適用する取り組み。病害虫の発生状況をモニタリングしながら複数の防除手段を組み合わせて被害を抑制する。",
+      "effects": "Availability：病害虫による収量損失を防ぎ、供給量の確保に直接寄与する。Utilization：農薬使用量の削減により残留農薬リスクを低減し、食品安全性の向上にも貢献する。Stability：安定した収量確保を通じて供給の年次変動の抑制にも資する。Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "cat": "野菜・果実",
+      "el": "A",
+      "t": "簡易ハウス・遮光ネット利用による作期拡大・生産安定化",
+      "tl": "中",
+      "td": "資材設置技術",
+      "il": "中",
+      "idt": "資材購入費",
+      "pl": "",
+      "pd": "不要",
+      "n": "強風等気象条件への耐性",
+      "overview": "簡易な骨組みにビニールや遮光ネットを張った小規模施設を用い、強い日射・豪雨・低温などの気象ストレスを緩和しながら野菜・果樹の栽培期間を延長する技術。露地栽培が難しい時期にも生産を可能にし、作期を分散させることで年間の生産量を底上げする。",
+      "effects": "Availability：栽培期間の延長・作期拡大により供給量の増加に直接寄与する。Stability：気象変動による生産減少リスクを緩和し、供給の安定化にも寄与する。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "cat": "野菜・果実",
+      "el": "A",
+      "t": "家庭菜園・果樹園を組み合わせた多品目生産システム",
+      "tl": "低",
+      "td": "栽培技術指導",
+      "il": "小",
+      "idt": "種苗・研修費",
+      "pl": "",
+      "pd": "不要",
+      "n": "世帯の労働力・土地面積",
+      "overview": "世帯の庭先や小面積の土地で野菜と果樹を組み合わせて栽培し、複数品目を同時に生産するシステム。単一作物への依存を避け、限られた土地・労働力の中で栄養価の異なる複数の作物を育てることで、世帯レベルでの多様な食料供給源を確保する。",
+      "effects": "Availability：世帯レベルでの多品目・周年的な食料供給量の確保に直接寄与する。Utilization：栄養価の異なる複数品目の摂取を通じて食事多様性の向上に大きく貢献する。Accessibility：現金支出を伴わない自家消費用の食料確保により経済的アクセスを補完する。Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "cat": "野菜・果実",
+      "el": "A",
+      "t": "収穫後の物理的な損失削減技術（適切な収穫・選別、輸送時の損傷防止等）による腐敗性の高い青果物の実質供給量の確保",
+      "tl": "低",
+      "td": "収穫・選別・梱包時の丁寧な取扱い技術",
+      "il": "小",
+      "idt": "コンテナ・梱包資材等",
+      "pl": "",
+      "pd": "不要",
+      "n": "Stability欄（貯蔵・加工技術）に続く一連の取り組みとして位置付け",
+      "overview": "収穫時の丁寧な取り扱い、適切な選別・等級分け、輸送時の衝撃・圧迫を防ぐ梱包資材の使用など、収穫から出荷までの物理的な損傷を減らす一連の技術。腐敗しやすい青果物特有の損失を抑え、収穫した作物が実際に消費・販売される量を増やす。",
+      "effects": "Availability：収穫後損失の削減を通じた実質的な供給量の確保に直接寄与する。Accessibility：市場に出回る量の増加により価格の安定化・入手性向上にも寄与する。Stability：貯蔵・加工技術と組み合わせることで供給の安定化にも波及する。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "PMC: Reducing Postharvest Losses during Storage of Grain Crops to Strengthen Food Security in Developing Countries",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5296677/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "cat": "野菜・果実",
+      "el": "B",
+      "t": "ホームステッド・ガーデン（家庭菜園）普及プログラム（女性を主対象とした栽培技術指導）",
+      "tl": "低",
+      "td": "栽培技術研修",
+      "il": "小〜中",
+      "idt": "種苗・研修費",
+      "pl": "",
+      "pd": "不要",
+      "n": "女性の時間的制約への配慮",
+      "overview": "女性を主な対象として、家庭菜園（ホームステッド・ガーデン）の開設・維持に必要な栽培技術を普及員が指導するプログラム。種苗の提供や実地研修を通じて、女性が自宅周辺の小さな土地で野菜を栽培し、家庭の食料を直接管理できるようにする。",
+      "effects": "Accessibility：自家消費を通じた食料への物理的・経済的アクセスの改善に直接寄与する。Utilization：女性が調理・栄養管理に関与することで食事多様性の向上にも波及する。Availability：世帯レベルでの供給量増加にも貢献する。Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "WorldFish: A gendered approach to nutrition-sensitive homestead pond polyculture",
+          "url": "https://www.worldfishcenter.org/blog/gendered-approach-nutrition-sensitive-homestead-pond-polyculture"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "cat": "野菜・果実",
+      "el": "B",
+      "t": "都市・近郊農業（アーバン／ペリアーバン園芸）支援",
+      "tl": "中",
+      "td": "限られた空間での栽培技術",
+      "il": "小〜中",
+      "idt": "資材購入費",
+      "pl": "一部必要",
+      "pd": "都市計画・土地利用規制",
+      "n": "都市部の土地アクセス",
+      "overview": "都市部やその周辺（ペリアーバン地域）の限られた空間（屋上、空き地、コンテナ等）を活用して野菜を栽培する都市農業を支援する取り組み。垂直栽培や容器栽培など省スペース型の栽培技術指導や、土地利用に関する調整支援を含む。",
+      "effects": "Accessibility：都市住民が新鮮な青果物を入手できる機会の拡大に直接寄与する。Availability：都市近郊での生産拠点の増加を通じて供給源の多様化にも貢献する。Stability：長距離輸送を要さないことで供給の安定性向上にも波及する。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "cat": "野菜・果実",
+      "el": "B",
+      "t": "学校菜園プログラムによる次世代への技術移転",
+      "tl": "低",
+      "td": "栽培技術研修",
+      "il": "小",
+      "idt": "種苗・資材費",
+      "pl": "一部必要",
+      "pd": "学校カリキュラムへの組み込み",
+      "n": "教員の技術習得",
+      "overview": "学校の敷地内に菜園を設け、生徒が栽培から収穫までを体験しながら野菜栽培技術と栄養知識を学ぶプログラム。教員が栽培指導を担い、収穫物を給食に活用することもある。次世代の農業・栄養知識の担い手を育成する狙いを持つ。",
+      "effects": "Accessibility：学校給食等を通じた児童の食料アクセス改善に直接寄与する。Utilization：栽培・食育を通じた栄養知識の向上、将来的な食習慣の改善にも波及する。Availability：学校周辺地域での栽培技術普及にも貢献する。Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "cat": "野菜・果実",
+      "el": "B",
+      "t": "種苗バウチャー・コミュニティ苗床の整備",
+      "tl": "低",
+      "td": "育苗技術",
+      "il": "小〜中",
+      "idt": "苗床整備費",
+      "pl": "",
+      "pd": "不要",
+      "n": "苗床の維持管理体制",
+      "overview": "種苗を無償または割引価格で入手できるバウチャー（引換券）制度と、地域住民が共同で苗を育てるコミュニティ苗床の整備を組み合わせた取り組み。個々の農家が育苗設備を持たなくても、良質な苗を安定的に入手できるようにする。",
+      "effects": "Accessibility：種苗の経済的・物理的入手性の改善に直接寄与する。Availability：良質な苗の安定供給を通じた生産量増加にも貢献する。Stability：苗床の継続運営により供給の季節変動緩和にも波及する。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "cat": "野菜・果実",
+      "el": "B",
+      "t": "生産者グループによる共同出荷・市場アクセス改善",
+      "tl": "低",
+      "td": "組織運営",
+      "il": "小",
+      "idt": "組織化支援費",
+      "pl": "",
+      "pd": "不要",
+      "n": "リーダーシップ人材",
+      "overview": "複数の生産者が組織化し、収穫物を取りまとめて共同で出荷・販売する仕組み。個々の農家では困難な取引量の確保や輸送コストの分担、価格交渉力の強化を通じて、より有利な条件で市場にアクセスできるようにする。",
+      "effects": "Accessibility：市場アクセスの改善と取引条件の向上を通じた経済的アクセスの改善に直接寄与する。Availability：出荷体制の効率化により市場での青果物供給量の増加にも貢献する。Stability：安定した出荷ルートの確保にも波及する。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "cat": "野菜・果実",
+      "el": "C",
+      "t": "低コスト貯蔵技術（蒸発冷却貯蔵庫、ソーラーコールドストレージ）による鮮度保持期間の延長",
+      "tl": "中",
+      "td": "建設・運用技術",
+      "il": "小〜中",
+      "idt": "建設費",
+      "pl": "",
+      "pd": "不要",
+      "n": "水の確保（蒸発冷却は水利用が前提）",
+      "overview": "電力を用いない蒸発冷却の原理（湿らせたレンガや砂を利用）や太陽光発電を利用した小規模コールドチェーン設備により、電力インフラが乏しい地域でも青果物の温度・湿度を管理し鮮度保持期間を延ばす貯蔵技術。",
+      "effects": "Stability：貯蔵期間の延長による端境期を含めた供給の安定化に直接寄与する。Availability：収穫後の劣化・廃棄の削減を通じた実質供給量の確保にも貢献する。Accessibility：貯蔵中の市場出荷調整による価格変動の緩和にも波及する。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "PMC: Reducing Postharvest Losses during Storage of Grain Crops to Strengthen Food Security in Developing Countries",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5296677/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "cat": "野菜・果実",
+      "el": "C",
+      "t": "加工・保存技術（天日乾燥、瓶詰め、発酵、ジュース加工）による端境期供給の確保",
+      "tl": "中",
+      "td": "加工技術・衛生管理",
+      "il": "小〜中",
+      "idt": "機材購入費",
+      "pl": "一部必要",
+      "pd": "小規模加工業の登録",
+      "n": "衛生管理の徹底",
+      "overview": "天日乾燥、瓶詰め、発酵、ジュース加工などにより野菜・果実を保存性の高い形態に加工する技術。収穫最盛期の余剰生産物を加工・保存しておくことで、生鮮品が不足する端境期にも栄養価のある食品として利用できるようにする。",
+      "effects": "Stability：加工・保存により端境期の供給確保に直接寄与する。Availability：収穫最盛期の余剰分の有効活用を通じた実質供給量の増加にも貢献する。Accessibility：保存食品として通年販売が可能になり経済的アクセス向上にも波及する。Utilization：適切な加工により一定の栄養価を保持した食品を提供できる。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "cat": "野菜・果実",
+      "el": "C",
+      "t": "作付け時期の分散（周年供給を意識した栽培カレンダー設計）",
+      "tl": "低",
+      "td": "栽培カレンダー設計",
+      "il": "小",
+      "idt": "普及費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "灌漑水の周年確保に依存",
+      "overview": "地域の気候条件や品種特性を踏まえ、複数の品目・品種の播種・定植時期を意図的にずらして計画する栽培カレンダーを設計し、収穫時期が特定の時期に集中しないよう分散させる取り組み。普及員が農家とともにカレンダーを作成し実践を支援する。",
+      "effects": "Stability：収穫時期の分散による年間を通じた供給の平準化に直接寄与する。Availability：特定時期の供給過多・不足の緩和を通じた実質的な利用可能量の確保にも貢献する。Accessibility：市場への安定供給を通じた価格変動緩和にも波及する。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "cat": "野菜・果実",
+      "el": "C",
+      "t": "加工業者との契約栽培による安定した出荷先の確保",
+      "tl": "低",
+      "td": "契約管理",
+      "il": "小",
+      "idt": "契約管理体制",
+      "pl": "一部必要",
+      "pd": "契約履行の枠組み",
+      "n": "加工業者の立地・存在に依存",
+      "overview": "農家が加工業者・仲買業者等とあらかじめ数量・価格・出荷時期を取り決めた契約を結んで栽培・出荷を行う仕組み。生産前に販売先と条件が確定していることで、収穫後の販路探しに伴う不確実性を減らす。",
+      "effects": "Stability：契約による出荷先・条件の事前確定を通じた供給・収入の安定化に直接寄与する。Accessibility：安定した収入を通じた経済的アクセスの改善にも波及する。Availability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "cat": "野菜・果実",
+      "el": "D",
+      "t": "安全な農薬使用・残留低減技術（適正使用基準、収穫前休薬期間の順守指導）",
+      "tl": "中",
+      "td": "適正使用基準の理解・実践",
+      "il": "小",
+      "idt": "防護具・研修",
+      "pl": "必須",
+      "pd": "農薬使用規制",
+      "n": "農薬の入手経路の管理",
+      "overview": "農薬のラベル表示に基づく適正な使用量・使用方法の順守、収穫前休薬期間（農薬散布から収穫までに空けるべき期間）の徹底など、農薬残留を安全な水準に抑えるための技術指導。防護具の使用方法や保管方法についても併せて指導する。",
+      "effects": "Utilization：残留農薬の低減による食品としての安全性向上に直接寄与する。Availability・Accessibility・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "cat": "野菜・果実",
+      "el": "D",
+      "t": "収穫後取扱い技術（適切な洗浄・保管による栄養損失の防止）",
+      "tl": "低",
+      "td": "洗浄・保管手法の研修",
+      "il": "小",
+      "idt": "研修費",
+      "pl": "",
+      "pd": "不要",
+      "n": "安全な水へのアクセス",
+      "overview": "収穫した青果物を適切な方法で洗浄・乾燥・保管し、汚染や過度の水分・高温にさらすことによる栄養素の劣化を防ぐ技術。清潔な容器・保管場所の使用や、洗浄時に安全な水を用いることなどを含む。",
+      "effects": "Utilization：洗浄・保管方法の改善による栄養価の保持に直接寄与する。Availability：適切な保管による腐敗抑制を通じた供給量の確保にも波及する。Accessibility・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "cat": "野菜・果実",
+      "el": "D",
+      "t": "栄養素保持を意識した調理法の普及（蒸し調理等、過加熱による損失防止の栄養教育）",
+      "tl": "低",
+      "td": "栄養教育",
+      "il": "小",
+      "idt": "教材・研修費",
+      "pl": "",
+      "pd": "不要",
+      "n": "調理習慣の変容には時間を要する",
+      "overview": "蒸し調理など過度な加熱や長時間の茹でこぼしを避ける調理法を家庭・地域で普及させる栄養教育活動。ビタミンCや水溶性ビタミン等、調理過程で失われやすい栄養素をできるだけ保持する調理習慣への転換を促す。",
+      "effects": "Utilization：調理過程での栄養損失の削減による摂取栄養価の向上に直接寄与する。Availability・Accessibility・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "cat": "野菜・果実",
+      "el": "D",
+      "t": "生鮮青果物の食品安全対策（灌漑用水・洗浄水の衛生管理、微生物汚染防止）",
+      "tl": "中",
+      "td": "衛生管理技術",
+      "il": "小〜中",
+      "idt": "安全な灌漑水源の確保",
+      "pl": "一部必要",
+      "pd": "食品安全基準",
+      "n": "水質汚染源（近隣の畜舎等）への対応",
+      "overview": "灌漑や収穫後の洗浄に用いる水の水質を管理し、糞便由来の病原微生物等による汚染を防ぐ取り組み。水源の選定、汚染源（家畜小屋等）からの距離確保、必要に応じた簡易浄水処理の導入などを含む。",
+      "effects": "Utilization：微生物汚染の防止による食品安全性の向上に直接寄与する。Availability：安全性の確保を通じた出荷可能量の維持にも波及する。Accessibility・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "cat": "畜産（共通）",
+      "el": "A",
+      "t": "繁殖能力向上技術（人工授精（AI）、優良種雄畜の活用）",
+      "tl": "高",
+      "td": "AI技術者・繁殖専門知識",
+      "il": "中",
+      "idt": "AI機材・液体窒素タンク等",
+      "pl": "一部必要",
+      "pd": "獣医・AI技術者の資格制度",
+      "n": "地域拠点への到達可能性",
+      "overview": "人工授精（AI）は、選抜した優良種雄畜の精液を液体窒素で保存・輸送し、雌畜に注入して受胎させる技術である。自然交配に頼らず遠隔地の農家でも改良された遺伝資源を利用でき、産乳量や増体率の高い子畜を計画的に生産できる。優良種雄畜の巡回貸付や共同利用も、同様の目的で併用される代替的な手法である。",
+      "effects": "Availability（供給量の増加）に直接寄与し、乳・肉生産性の向上を通じて動物性食品の供給を底上げする。生産効率の向上によりAccessibility（同じ頭数でより多くの生産物が得られ入手しやすくなる）にも波及するが、Stability・Utilizationへの副次的効果は限定的である。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "PMC: Improving adoption of technologies and interventions for increasing supply of quality livestock feed in LMICs",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726233/"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "cat": "畜産（共通）",
+      "el": "A",
+      "t": "飼料・粗飼料の改良（改良牧草、サイレージ・乾草調製等の飼料保存技術）",
+      "tl": "中",
+      "td": "飼料調製技術",
+      "il": "小〜中",
+      "idt": "資機材購入費",
+      "pl": "",
+      "pd": "不要",
+      "n": "飼料原料（牧草地）の確保",
+      "overview": "栄養価の高い改良牧草・マメ科牧草の導入や、余剰の青刈り飼料をサイレージ・乾草として発酵・乾燥保存する技術を指す。乾季や不作時にも安定した飼料供給を可能にし、家畜の栄養状態と生産性を維持する。刈取り・裁断・密封貯蔵などの調製工程の習得が実施の中心となる。",
+      "effects": "Availability（飼料供給の安定・増加を通じた畜産物生産量の増加）に直接寄与する。飼料コストの低減や栄養価向上により乳量・増体率が改善し、Accessibility（購入飼料への依存低下による経済的アクセス改善）やStability（乾季・端境期の生産変動の緩和）にも波及する。",
+      "sources": [
+        {
+          "label": "PMC: Improving adoption of technologies and interventions for increasing supply of quality livestock feed in LMICs",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726233/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "cat": "畜産（共通）",
+      "el": "A",
+      "t": "基礎的な家畜衛生サービス（定期ワクチン接種、駆虫プログラム、普及員による飼養管理指導）",
+      "tl": "中",
+      "td": "接種・投薬技術",
+      "il": "小〜中",
+      "idt": "ワクチン・薬剤の継続調達費",
+      "pl": "一部必要",
+      "pd": "ワクチン流通・獣医サービス規制",
+      "n": "コールドチェーン（ワクチン保管）への依存",
+      "overview": "家畜の主要感染症に対する定期的なワクチン接種、寄生虫駆除（駆虫）プログラム、および普及員による日常的な飼養管理（給餌・衛生管理・記録）の指導を組み合わせたサービス体系である。予防的な家畜衛生管理により疾病による損耗を防ぎ、生産の土台を安定させる。",
+      "effects": "Availability（疾病による斃死・生産性低下の防止を通じた供給量の下支え）に直接寄与する。健康な家畜の維持は所得の安定につながりStability（疾病による突発的損失リスクの低減）にも寄与するが、Accessibility・Utilizationへの副次的効果は限定的である。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "ACIAR: Village chickens, poverty alleviation and Newcastle disease vaccination",
+          "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/11133/pr131_pdf_20619.pdf"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "cat": "畜産（共通）",
+      "el": "A",
+      "t": "家畜用水施設の整備",
+      "tl": "低",
+      "td": "施設建設技術",
+      "il": "中",
+      "idt": "建設費",
+      "pl": "",
+      "pd": "不要",
+      "n": "水源確保",
+      "overview": "家畜が安定的に飲水できるよう、水槽・給水池・簡易井戸などの給水施設を整備する取り組みである。水源から畜舎や放牧地まで家畜が容易にアクセスできるようにすることで、脱水や長距離移動による体力消耗を防ぎ、通年での飼養を可能にする。",
+      "effects": "Availability（飲水確保による家畜の健康維持・生産性の下支え）に直接寄与する。放牧地までの移動負担軽減により飼養効率が改善し、乾季のStability（水不足による生産変動の緩和）にも一定の波及効果があるが、Accessibility・Utilizationへの副次的効果は限定的である。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "cat": "畜産（共通）",
+      "el": "B",
+      "t": "家畜再分配・パス・オン・プログラム（貧困層・女性への子畜供与による資産形成支援）",
+      "tl": "低",
+      "td": "プログラム運営",
+      "il": "中",
+      "idt": "初期家畜の調達費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "受益者選定の公平性・コミュニティの合意形成",
+      "overview": "貧困層や女性世帯主に雌の子畜（ヤギ・ニワトリ等）を無償供与し、受益者が最初に生まれた子畜を次の受益者へ譲渡（パス・オン）していく仕組みである。少ない初期投入で受益者を連鎖的に拡大でき、家畜という生産資産の保有を通じて所得と栄養の両面を底上げする。",
+      "effects": "Accessibility（貧困層・女性の畜産物・所得へのアクセス改善）に直接寄与する。家畜資産の形成により所得が安定しStability（緊急時に売却できる資産の確保）にも寄与し、動物性食品の家庭内消費増加を通じてUtilization（栄養状態の改善）にも波及しうる。",
+      "sources": [
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "cat": "畜産（共通）",
+      "el": "B",
+      "t": "コミュニティ・アニマルヘルスワーカー（CAHW）による遠隔地への獣医サービス提供",
+      "tl": "中",
+      "td": "CAHW研修",
+      "il": "小〜中",
+      "idt": "研修・機材費",
+      "pl": "必須",
+      "pd": "CAHWの活動を認める獣医関連法制",
+      "n": "CAHWの継続的なモチベーション維持",
+      "overview": "獣医サービスが行き届きにくい遠隔地の農家・牧畜民に対し、基礎研修を受けた地域住民（CAHW）が簡易な診断・投薬・ワクチン接種等の一次的な家畜衛生サービスを提供する仕組みである。専門獣医師との連携（紹介・監督）を組み合わせることで、サービス網を面的に拡大する。",
+      "effects": "Accessibility（獣医サービスへの物理的・経済的アクセス改善）に直接寄与する。疾病の早期発見・対処により家畜損耗が防がれAvailability（生産量の下支え）やStability（疾病による損失リスクの低減）にも波及する。",
+      "sources": [
+        {
+          "label": "ACIAR: Village chickens, poverty alleviation and Newcastle disease vaccination",
+          "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/11133/pr131_pdf_20619.pdf"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "cat": "畜産（共通）",
+      "el": "B",
+      "t": "家畜市場・小規模金融へのアクセス改善（畜群拡大のための信用供与）",
+      "tl": "低",
+      "td": "市場・金融サービス運営",
+      "il": "中",
+      "idt": "金融サービス整備",
+      "pl": "一部必要",
+      "pd": "マイクロファイナンス規制",
+      "n": "市場までの輸送手段",
+      "overview": "家畜の売買がしやすい市場インフラ（家畜市、価格情報の共有等）を整備するとともに、畜群拡大や飼料・衛生資材の購入資金となる小規模金融（マイクロファイナンス）へのアクセスを改善する取り組みである。担保に乏しい小規模畜産農家でも運転資金を確保できるようにする。",
+      "effects": "Accessibility（市場・金融サービスへのアクセス改善を通じた畜産物・所得への到達性向上）に直接寄与する。信用供与による畜群拡大や飼料改善はAvailability（生産量の増加）にも波及し、市場での安定した販売先確保はStability（価格・所得変動の緩和）にも寄与しうる。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "cat": "畜産（共通）",
+      "el": "B",
+      "t": "女性の家畜所有・意思決定を支援する普及設計",
+      "tl": "低",
+      "td": "ジェンダー配慮型普及",
+      "il": "小",
+      "idt": "普及費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "社会規範の変化を伴う",
+      "overview": "家畜の登録・所有権や販売収入の管理において女性が主体的に関与できるよう、普及活動の対象・時間帯・グループ編成をジェンダーに配慮して設計する取り組みである。女性向け研修グループの設置や、女性が扱いやすい小家畜（ニワトリ・ヤギ等）を対象とした普及も含まれる。",
+      "effects": "Accessibility（女性による畜産物・収入へのアクセス・意思決定権の改善）に直接寄与する。女性が管理する所得は家庭内の食料・栄養支出に振り向けられやすく、Utilization（世帯の栄養状態の改善）への波及効果が期待される。",
+      "sources": [
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "cat": "畜産（共通）",
+      "el": "C",
+      "t": "家畜インデックス保険（干ばつ等の指標に連動した牧畜民向け保険）",
+      "tl": "高",
+      "td": "保険設計・衛星データ活用",
+      "il": "中",
+      "idt": "商品開発費用",
+      "pl": "必須",
+      "pd": "保険業規制",
+      "n": "牧畜民の保険理解促進",
+      "overview": "牧畜地域の植生指標（衛星データによる牧草の生育状況）や降水量など客観的な指標が一定の閾値を下回った場合に、実際の家畜損失を個別に査定せず自動的に保険金を支払う仕組みである。干ばつによる大量斃死のリスクを、牧畜民が事前に低コストで移転できるようにする。",
+      "effects": "Stability（干ばつ等の外的ショックによる生産・所得変動の緩和）に直接寄与する。保険金の受給により飼料購入や再繁殖のための資金が確保され、Availability（畜群の早期回復）にも波及するが、Accessibility・Utilizationへの副次的効果は限定的である。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "cat": "畜産（共通）",
+      "el": "C",
+      "t": "疾病サーベイランス・早期警戒システム",
+      "tl": "高",
+      "td": "疫学調査・診断技術",
+      "il": "大",
+      "idt": "監視体制構築",
+      "pl": "必須",
+      "pd": "通報義務制度",
+      "n": "近隣地域との情報共有",
+      "overview": "家畜の主要感染症の発生状況を継続的にモニタリングし、異常発生を早期に検知・通報する仕組みである。現場からの症例報告、検査機関での診断、データの集約・分析を通じて、感染拡大の兆候を早期に捉え、封じ込め措置につなげる。",
+      "effects": "Stability（疾病の大規模流行による生産・供給の急激な変動リスクの低減）に直接寄与する。早期対応による被害の最小化はAvailability（供給量の維持）にも波及するが、Accessibility・Utilizationへの副次的効果は限定的である。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "cat": "畜産（共通）",
+      "el": "C",
+      "t": "干ばつ時の緊急放牧地・飼料バンク、早期売却（デストッキング）支援",
+      "tl": "中",
+      "td": "緊急対応の運営技術",
+      "il": "中〜大",
+      "idt": "緊急対応財源",
+      "pl": "一部必要",
+      "pd": "緊急時対応計画への位置付け",
+      "n": "発動基準の明確化",
+      "overview": "干ばつ発生時に備え、平時から飼料を備蓄する「飼料バンク」や、緊急時に利用できる放牧地を確保しておく仕組みである。あわせて、干ばつの兆候が見られた段階で家畜の一部を計画的に売却する「早期売却（デストッキング）」を支援し、畜群全体の壊滅的な損失を回避する。",
+      "effects": "Stability（干ばつ時の畜群・所得の急激な減少の緩和）に直接寄与する。デストッキングによる収入確保はAccessibility（緊急時の資金へのアクセス）にも波及するが、Availability・Utilizationへの副次的効果は限定的である。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "cat": "畜産（共通）",
+      "el": "C",
+      "t": "ワクチン用コールドチェーン等、家畜衛生サービスの供給インフラ",
+      "tl": "中",
+      "td": "冷却設備の維持管理",
+      "il": "中〜大",
+      "idt": "設備・電力インフラ",
+      "pl": "一部必要",
+      "pd": "コールドチェーン基準",
+      "n": "電力アクセス",
+      "overview": "ワクチンの効力を維持するために必要な、冷蔵庫・保冷ボックス・輸送用クーラーボックスなどからなる保冷流通網（コールドチェーン）を整備する取り組みである。生産地から末端の農家まで低温を維持したままワクチンを届けることで、ワクチン接種プログラムの実効性を支える基盤となる。",
+      "effects": "Stability（ワクチン供給の安定化を通じた疾病流行リスクの低減）に直接寄与する。ワクチンの有効性確保によりAvailability（家畜損耗の防止による供給量の下支え）にも波及するが、Accessibility・Utilizationへの副次的効果は限定的である。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "cat": "畜産（共通）",
+      "el": "D",
+      "t": "安全な屠畜・衛生的搾乳等、動物性食品（ASF）の安全な取扱い技術",
+      "tl": "中",
+      "td": "衛生管理技術研修",
+      "il": "小〜中",
+      "idt": "器具・研修費",
+      "pl": "一部必要",
+      "pd": "と畜・搾乳衛生基準",
+      "n": "継続的な実践の定着",
+      "overview": "食肉処理（屠畜）や搾乳の各工程における衛生管理を徹底し、微生物汚染や病原体混入を防ぐ技術である。清潔な処理施設・器具の使用、作業者の衛生習慣、搾乳前後の乳房・器具の洗浄手順などが含まれ、動物性食品（ASF）を安全に消費できる状態で家庭・市場に届けることを目的とする。",
+      "effects": "Utilization（食品由来疾病リスクの低減による安全な栄養摂取の実現）に直接寄与する。品質劣化の防止による廃棄削減はAvailability（実質的な供給量の維持）にも波及するが、Accessibility・Stabilityへの副次的効果は限定的である。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "cat": "畜産（共通）",
+      "el": "D",
+      "t": "人獣共通感染症対策（ワンヘルス・アプローチ）",
+      "tl": "高",
+      "td": "獣医・保健連携の専門知識",
+      "il": "中",
+      "idt": "監視・対応体制",
+      "pl": "必須",
+      "pd": "保健・獣医部門の連携制度",
+      "n": "部門間調整（政治的合意）",
+      "overview": "動物由来感染症（人獣共通感染症）への対策として、獣医部門・保健部門・環境部門が連携して監視・予防・対応にあたる「ワンヘルス」の考え方に基づく取り組みである。動物の健康状態のモニタリングと人の健康影響の把握を一体的に行い、家畜由来の健康リスクを低減する。",
+      "effects": "Utilization（人獣共通感染症による健康被害の低減を通じた栄養状態の保護）に直接寄与する。感染症流行の抑制はAvailability（家畜損耗の防止）やStability（突発的な生産・健康被害の緩和）にも波及するが、Accessibilityへの副次的効果は限定的である。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "cat": "畜産（共通）",
+      "el": "D",
+      "t": "妊産婦・乳幼児への動物性食品摂取の重要性に関する栄養教育",
+      "tl": "低",
+      "td": "栄養教育",
+      "il": "小",
+      "idt": "教材費",
+      "pl": "",
+      "pd": "不要",
+      "n": "文化的な食習慣（タブー等）への配慮",
+      "overview": "妊産婦や乳幼児にとって卵・乳・肉などの動物性食品が鉄分・ビタミンA・良質なたんぱく質等の重要な供給源であることを、地域の保健・普及ワーカーが家庭や母親グループに対して伝える栄養教育活動である。調理法の実演や、家庭内での分配（誰が何を食べるか）に関する助言も含まれる。",
+      "effects": "Utilization（妊産婦・乳幼児の栄養状態の改善）に直接寄与する。家庭内での動物性食品消費が促進されることでAccessibility（生産された畜産物の家庭内での実質的な入手）にも波及するが、Availability・Stabilityへの副次的効果は限定的である。",
+      "sources": [
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "cat": "畜産（共通）",
+      "el": "D",
+      "t": "動物性食品の収穫後ロス削減（保存・流通段階での腐敗防止）",
+      "tl": "中",
+      "td": "保存・流通技術",
+      "il": "小〜中",
+      "idt": "資機材費",
+      "pl": "",
+      "pd": "不要",
+      "n": "コールドチェーン整備状況に依存",
+      "overview": "肉・乳・卵などの動物性食品が生産後から消費されるまでの保存・流通段階で腐敗・品質劣化により失われる量を減らす取り組みである。適切な冷却・塩蔵・乾燥等の保存処理、清潔な容器の使用、流通時間の短縮など、コールドチェーンに依存しない簡易な工夫も含まれる。",
+      "effects": "Utilization（安全に消費できる食品の実質的な確保）と、実質的な供給量の維持を通じたAvailability（ロス削減による供給量の下支え）の双方に寄与する。流通効率の改善によりAccessibility（消費者への到達性向上）にも波及するが、Stabilityへの副次的効果は限定的である。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "cat": "畜産（乳牛）",
+      "el": "A",
+      "t": "乳用種の改良（人工授精による高能力乳牛の導入・交雑種の活用）",
+      "tl": "高",
+      "td": "AI技術・繁殖専門知識",
+      "il": "中",
+      "idt": "AI・優良種畜導入費",
+      "pl": "一部必要",
+      "pd": "家畜改良に関する規制",
+      "n": "畜産（共通）の繁殖能力向上技術と連動",
+      "overview": "在来種の乳牛に対し、人工授精（AI）技術を用いて高産乳能力を持つホルスタイン等の遺伝資源を導入し、在来種との交雑を進める取り組み。液体窒素による精液保存・輸送体制と、発情観察・授精技術を持つ人員の配置が前提となる。純粋種の直接導入に比べ、暑熱・疾病への耐性を維持しつつ段階的に産乳量を高められる点が特徴。",
+      "effects": "Availabilityの観点から、1頭あたりの搾乳量が増加し地域全体の生乳供給量拡大に直接寄与する。副次的には、生産性向上による収益増がAccessibility（購入力向上）にもつながる一方、Stability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "PMC: Improving adoption of technologies and interventions for increasing supply of quality livestock feed in LMICs",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726233/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "cat": "畜産（乳牛）",
+      "el": "A",
+      "t": "搾乳量向上のための配合飼料・サイレージ給与技術",
+      "tl": "中",
+      "td": "飼料設計",
+      "il": "中",
+      "idt": "飼料購入・製造費（継続支出）",
+      "pl": "",
+      "pd": "不要",
+      "n": "飼料原料の安定調達",
+      "overview": "エネルギー・タンパク質バランスを考慮した配合飼料と、保存性の高いサイレージ（発酵飼料）を組み合わせて給与し、乳牛の栄養状態と泌乳量を高める技術。牧草だけでは不足しがちな栄養素を補い、季節を問わず安定した給餌計画を組めるようにする点が要点となる。",
+      "effects": "Availabilityの観点から、飼料改善による産乳量の底上げが供給量増加に直接寄与する。副次的には、周年での栄養供給の平準化を通じてStability（安定供給）にも一定の効果がある一方、Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "PMC: Improving adoption of technologies and interventions for increasing supply of quality livestock feed in LMICs",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726233/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "cat": "畜産（乳牛）",
+      "el": "A",
+      "t": "搾乳管理・乳房炎予防技術による生産性向上",
+      "tl": "中",
+      "td": "搾乳衛生技術",
+      "il": "小",
+      "idt": "器具・研修費",
+      "pl": "",
+      "pd": "不要",
+      "n": "定着までの継続的指導が必要",
+      "overview": "搾乳前後の乳頭消毒、搾乳器具の衛生管理、正しい搾乳手順の徹底により、乳房炎（乳腺の炎症）の発生を予防し、健全な状態で最大限の産乳量を維持する技術。普及員による現場でのハンズオン指導を通じて、農家の日常作業に衛生管理を組み込むことが中心となる。",
+      "effects": "Availabilityの観点から、乳房炎による産乳量低下・廃棄乳の発生を防ぐことで供給量の維持・増加に直接寄与する。副次的には、健全な生乳の確保がUtilization（安全性）にもつながる一方、Accessibility・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "cat": "畜産（乳牛）",
+      "el": "B",
+      "t": "集乳所（ミルク・コレクションセンター）ネットワークの整備",
+      "tl": "中",
+      "td": "集乳・品質検査技術",
+      "il": "大",
+      "idt": "施設建設費",
+      "pl": "一部必要",
+      "pd": "乳質基準",
+      "n": "酪農家の分布密度に依存",
+      "overview": "農家から生産された生乳を近隣の拠点で受け入れ、品質検査（比重・酸度・細菌数等）を行った上で一時保管し、加工業者や乳業メーカーへまとめて出荷する仕組み。小規模農家が個別に販路を開拓する負担を軽減し、安定した出荷先を確保できるようにする施設ネットワークを整備する取り組み。",
+      "effects": "Accessibilityの観点から、農家が安定した出荷先・現金収入を得られるようになる点に直接寄与する。副次的には、集乳段階での品質検査体制がUtilization（安全性）の向上にもつながる一方、Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "cat": "畜産（乳牛）",
+      "el": "B",
+      "t": "酪農協同組合による集荷・共同販売",
+      "tl": "低",
+      "td": "組合運営",
+      "il": "小〜中",
+      "idt": "組織化費用",
+      "pl": "一部必要",
+      "pd": "協同組合法制",
+      "n": "リーダーシップ・信頼関係",
+      "overview": "小規模酪農家が組合を組織し、生乳の集荷・品質管理・価格交渉・共同販売を共同で行う仕組み。個別の農家では対応できない規模のバイヤーとの取引や、投入財（飼料・薬品）の共同購入によるコスト削減も含め、組織的な運営を通じて交渉力と収益性を高める取り組み。",
+      "effects": "Accessibilityの観点から、共同販売による価格交渉力の向上と安定した現金収入の確保に直接寄与する。副次的には、投入財の共同購入によりAvailability（生産資材の確保）にもつながる一方、Stability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "cat": "畜産（乳牛）",
+      "el": "B",
+      "t": "小規模酪農家向けの搾乳牛導入マイクロクレジット",
+      "tl": "低",
+      "td": "融資審査運営",
+      "il": "中",
+      "idt": "融資原資",
+      "pl": "一部必要",
+      "pd": "金融規制",
+      "n": "返済能力の審査体制",
+      "overview": "搾乳牛の購入資金を持たない小規模農家に対し、少額融資（マイクロクレジット）を提供し、乳牛導入の初期投資負担を軽減する金融支援の仕組み。返済は将来の生乳販売収入から分割で行う設計とし、農業協同組合やマイクロファイナンス機関が融資審査・回収を担う。",
+      "effects": "Accessibilityの観点から、資金制約のある農家が乳牛を導入し酪農経営に参入できるようになる点に直接寄与する。副次的には、飼養頭数の増加を通じてAvailability（生乳供給量）の拡大にもつながる一方、Stability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "cat": "畜産（乳牛）",
+      "el": "C",
+      "t": "バルククーラー・ソーラー冷却設備等のコールドチェーン整備（集乳段階での品質劣化防止）",
+      "tl": "高",
+      "td": "冷却設備の設置・維持",
+      "il": "大",
+      "idt": "設備投資（電力インフラ）",
+      "pl": "一部必要",
+      "pd": "乳質・コールドチェーン基準",
+      "n": "電力アクセスが決定的な制約",
+      "overview": "搾乳直後の生乳を速やかに低温（概ね4度前後）まで冷却し、集乳・輸送の過程を通じて低温を維持する設備を整える取り組み。電力供給が不安定な地域ではソーラーパネル駆動の冷却装置（バルククーラー）を用い、酸敗・細菌増殖による品質劣化と廃棄ロスを防ぐ。",
+      "effects": "Stabilityの観点から、集乳から加工・販売までの品質劣化を防ぎ、安定した出荷量を確保できる点に直接寄与する。副次的には、廃棄ロス削減によるAvailability（実質的な供給量確保）や、安全な生乳の維持によるUtilizationにもつながる。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        },
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "cat": "畜産（乳牛）",
+      "el": "C",
+      "t": "乾季飼料確保のためのサイレージ調製・保存技術",
+      "tl": "中",
+      "td": "飼料保存技術",
+      "il": "中",
+      "idt": "サイロ・資材費",
+      "pl": "",
+      "pd": "不要",
+      "n": "雨季の飼料原料確保",
+      "overview": "雨季に豊富に得られる牧草・作物残渣を刈り取り、密閉容器やサイロで発酵させて保存するサイレージ調製技術。乾季に牧草が不足する時期にも安定した飼料を給与できるようにし、季節による産乳量の落ち込みを緩和する。刈取時期の見極めと密閉度の管理が品質を左右する。",
+      "effects": "Stabilityの観点から、乾季における飼料不足による産乳量低下を防ぎ、周年での安定した生乳供給に直接寄与する。副次的には、安定した供給量そのものがAvailabilityの下支えにもなる一方、Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "PMC: Improving adoption of technologies and interventions for increasing supply of quality livestock feed in LMICs",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726233/"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "cat": "畜産（乳牛）",
+      "el": "C",
+      "t": "乳房炎対策プログラムによる周年安定生産",
+      "tl": "中",
+      "td": "獣医診断技術",
+      "il": "小〜中",
+      "idt": "獣医サービス費",
+      "pl": "",
+      "pd": "不要",
+      "n": "継続的な獣医サービスアクセス",
+      "overview": "定期的な乳房検査（カリフォルニア・マスティティ・テスト等）と早期治療、獣医サービスとの連携を組み合わせ、乳房炎の発生を継続的に抑制するプログラム。単発の予防技術にとどまらず、モニタリングと対応を仕組みとして年間を通じて回すことで、産乳量の落ち込みを防ぐ点が特徴。",
+      "effects": "Stabilityの観点から、乳房炎による産乳量の変動を抑え、周年で安定した生乳生産を確保できる点に直接寄与する。副次的には、健全な生乳の維持がUtilization（安全性）にもつながる一方、Availability・Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "cat": "畜産（乳牛）",
+      "el": "D",
+      "t": "小規模低温殺菌技術の導入による生乳の安全性確保",
+      "tl": "高",
+      "td": "殺菌機器の操作・衛生管理",
+      "il": "中",
+      "idt": "殺菌設備",
+      "pl": "必須",
+      "pd": "乳製品の安全基準",
+      "n": "電力アクセス",
+      "overview": "生乳を63度前後で30分程度、または72度前後で15秒程度加熱する低温殺菌（パスチャライゼーション）を、小規模な集乳所や加工拠点レベルの設備で行う技術。病原微生物を減らし飲用・加工の両面で安全性を高めるもので、家庭用より大きいが工業用よりは小型の殺菌装置を用いる点が特徴。",
+      "effects": "Utilizationの観点から、生乳の微生物学的安全性を高め安全な消費につなげる点に直接寄与する。副次的には、安全性の担保による市場信頼の向上がAccessibility（販路拡大）にもつながる一方、Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "cat": "畜産（乳牛）",
+      "el": "D",
+      "t": "ヨーグルト・チーズ等への加工多様化（保存性向上と栄養価の維持）",
+      "tl": "高",
+      "td": "発酵・熟成等の加工技術",
+      "il": "中",
+      "idt": "加工設備",
+      "pl": "一部必要",
+      "pd": "乳製品加工の登録・基準",
+      "n": "市場需要の有無",
+      "overview": "発酵・熟成等の加工技術を用いて生乳をヨーグルトやチーズなどに変換し、保存性を高めるとともに製品としての付加価値を持たせる取り組み。発酵によりタンパク質・カルシウム等の栄養価が概ね維持される一方、消化性の向上や保存期間の延長といった利点が加わる点が特徴。",
+      "effects": "Utilizationの観点から、加工により保存性を高め栄養価を維持した形で消費機会を広げる点に直接寄与する。副次的には、多様な製品化による販路拡大がAccessibility（収入機会）にもつながる一方、Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "cat": "畜産（乳牛）",
+      "el": "D",
+      "t": "学校給食等を通じた子ども向け牛乳消費促進プログラム",
+      "tl": "低",
+      "td": "運営スキル",
+      "il": "大",
+      "idt": "給食財源",
+      "pl": "必須",
+      "pd": "学校給食制度",
+      "n": "分野横断：制度・基盤の学校給食連動を参照",
+      "overview": "学校給食に牛乳・乳製品を組み込み、子どもの日常的な摂取機会を制度的に確保する取り組み。地元酪農家からの調達を給食プログラムに接続することで、栄養改善と地域酪農の需要創出を同時に図る設計が中心となる。運営には学校側の配膳・保管体制の整備も含まれる。",
+      "effects": "Utilizationの観点から、子どもの牛乳・乳製品摂取機会を制度的に確保し栄養改善に直接寄与する。副次的には、地元産乳の継続調達を通じてAccessibility（地域酪農家の販路）にもつながる一方、Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "cat": "畜産（乳牛）",
+      "el": "D",
+      "t": "飼料由来アフラトキシンM1混入対策（飼料管理・検査）",
+      "tl": "高",
+      "td": "検査技術",
+      "il": "中",
+      "idt": "検査体制",
+      "pl": "一部必要",
+      "pd": "乳中のアフラトキシン基準",
+      "n": "飼料側の汚染管理との連動",
+      "overview": "カビ毒アフラトキシンB1に汚染された飼料（トウモロコシ・落花生粕等）を乳牛が摂取すると、その代謝物であるアフラトキシンM1が生乳中に排出される。これを防ぐため、飼料原料の適切な保管・乾燥管理と、生乳・飼料段階でのアフラトキシン検査体制を整備する取り組み。",
+      "effects": "Utilizationの観点から、有害物質混入を防ぎ生乳の安全性を確保する点に直接寄与する。副次的には、安全基準を満たすことで輸出・都市市場向け販路の確保などAccessibilityにもつながる一方、Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "IDRC: Post-Harvest Management Technologies for Reducing Aflatoxin Contamination in Maize",
+          "url": "https://idrc-crdi.ca/en/what-we-do/projects-we-support/project/post-harvest-management-technologies-reducing-aflatoxin"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "cat": "畜産（肉牛）",
+      "el": "A",
+      "t": "肉用種改良・肥育技術（フィードロット方式等）",
+      "tl": "高",
+      "td": "育種・肥育管理技術",
+      "il": "大",
+      "idt": "施設・飼料投資",
+      "pl": "",
+      "pd": "不要",
+      "n": "飼料穀物の安定調達",
+      "overview": "肉用種の系統選抜や人工授精による遺伝的改良と、フィードロット（集約肥育）方式による短期集中肥育を組み合わせた技術。優良種雄牛の導入により増体性・肉質を高める一方、穀物を中心とした配合飼料で肥育期間を短縮し、出荷体重と枝肉歩留りを引き上げる。放牧だけに頼らない周年的な牛肉供給体制の構築を目指す取り組みである。",
+      "effects": "肉牛の増体率・出荷頭数が向上し、供給量の増加に直接寄与する。肥育期間の短縮によって回転率が高まり、市場への安定供給（Stability）にもつながる。品質向上による販売価格の上昇は生産者所得を高め、購入可能性（Accessibility）への波及効果も期待できる。Utilizationへの直接効果は限定的。",
+      "sources": [
+        {
+          "label": "Improving adoption of technologies and interventions for increasing supply of quality livestock feed in LMICs",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726233/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "cat": "畜産（肉牛）",
+      "el": "A",
+      "t": "輪換放牧による牧草地管理と増体率向上",
+      "tl": "中",
+      "td": "放牧設計",
+      "il": "小〜中",
+      "idt": "柵等の資材",
+      "pl": "一部必要",
+      "pd": "共有放牧地の利用ルール",
+      "n": "土地の共同管理体制",
+      "overview": "放牧地をいくつかの区画に分割し、一定期間ごとに家畜を移動させながら牧草の回復期間を確保する管理手法。過放牧による草地の劣化を防ぎつつ、栄養価の高い若い牧草を継続的に家畜へ供給することで増体率を高める。柵や水飲み場の配置計画、放牧スケジュールの設計が実施の中心となる。",
+      "effects": "牧草生産性の向上と増体率の改善を通じ、供給量の増加に直接寄与する。草地の持続的な利用が可能になるため、乾季を含めた長期的な飼料確保という点でStabilityにも寄与する。共有放牧地の利用調整が進めば地域内のアクセス公平性にも波及しうるが、Utilizationへの直接効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "cat": "畜産（肉牛）",
+      "el": "B",
+      "t": "家畜市場・競り市の整備と価格情報提供",
+      "tl": "低",
+      "td": "市場運営",
+      "il": "中",
+      "idt": "市場施設整備費",
+      "pl": "一部必要",
+      "pd": "家畜市場の運営規則",
+      "n": "市場情報システムと連動",
+      "overview": "家畜の売買を行う定期市（家畜市場・競り市）を整備し、公正な価格形成の場を提供するとともに、市況・相場情報を生産者や仲買人に発信する取り組み。市場施設の建設・運営に加え、携帯電話やラジオ等を通じた価格情報配信システムの整備を含む。",
+      "effects": "家畜の売買機会が拡大し、生産者・購入者双方のアクセス改善に直接寄与する。価格の透明性向上により生産者の交渉力が高まり所得向上につながるほか、需給情報の共有は市場取引の安定化（Stability）にも資する。Availability・Utilizationへの直接効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "cat": "畜産（肉牛）",
+      "el": "B",
+      "t": "肥育事業向け融資制度",
+      "tl": "低",
+      "td": "融資審査運営",
+      "il": "中〜大",
+      "idt": "融資原資",
+      "pl": "一部必要",
+      "pd": "金融規制",
+      "n": "担保・信用力の制約",
+      "overview": "肥育農家や中小規模の肥育事業者が施設整備・飼料購入・素牛導入などに必要な資金を借り入れられるよう、専用の融資制度を設ける取り組み。マイクロファイナンス機関や農業金融機関を通じた融資枠の設定、金利優遇、返済猶予期間の設定などが含まれる。",
+      "effects": "肥育事業への参入・拡大が資金面で可能になり、アクセス改善に直接寄与する。事業規模の拡大は供給量の増加（Availability）にもつながる。融資を通じた計画的な事業運営は経営の安定化（Stability）にも資するが、Utilizationへの直接効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "cat": "畜産（肉牛）",
+      "el": "B",
+      "t": "と畜場・食肉処理施設へのアクセス改善",
+      "tl": "中",
+      "td": "施設運営技術",
+      "il": "大",
+      "idt": "施設建設費",
+      "pl": "必須",
+      "pd": "と畜場の衛生基準・許認可",
+      "n": "施設までの輸送距離",
+      "overview": "家畜を安全かつ衛生的に処理するためのと畜場・食肉処理施設を整備し、生産者が容易に利用できるようにする取り組み。施設の新設・改修に加え、施設までの輸送手段の確保や利用料金の適正化を含む。",
+      "effects": "生産者が正規の処理施設を利用できるようになり、アクセス改善に直接寄与する。衛生的な処理は食肉の安全性・品質向上を通じUtilizationにも寄与する。流通の効率化は供給の安定（Stability）にもつながるが、Availabilityへの直接効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "cat": "畜産（肉牛）",
+      "el": "C",
+      "t": "牧畜民向け早期警戒・デストッキング支援（干ばつ時の損失回避）",
+      "tl": "中",
+      "td": "緊急対応運営",
+      "il": "中〜大",
+      "idt": "緊急対応財源",
+      "pl": "一部必要",
+      "pd": "緊急対応計画",
+      "n": "畜産（共通）のデストッキング支援と連動",
+      "overview": "干ばつなど気候ショックの兆候を早期に把握する警戒システムと連動し、家畜の損失が深刻化する前に一部の家畜を計画的に売却（デストッキング）するよう牧畜民を支援する取り組み。市場アクセスの確保や緊急買取制度の運用を含む。",
+      "effects": "干ばつ時の家畜の大量死亡や資産喪失を防ぎ、供給・所得の急激な落ち込みを回避することで、安定性の確保に直接寄与する。売却収入の確保は購入可能性（Accessibility）の維持にもつながる。Availability・Utilizationへの直接効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "cat": "畜産（肉牛）",
+      "el": "C",
+      "t": "乾季放牧地の保全・ローテーション管理",
+      "tl": "中",
+      "td": "牧草地管理技術",
+      "il": "小〜中",
+      "idt": "管理費用",
+      "pl": "一部必要",
+      "pd": "共有地管理ルール",
+      "n": "牧畜民間の合意形成",
+      "overview": "乾季に家畜が依存する限られた牧草資源を計画的に保全し、複数の放牧地を順番に利用するローテーション管理を行う取り組み。乾季前からの草地の休養や利用順序の調整、牧畜民間の合意形成を通じて資源の枯渇を防ぐ。",
+      "effects": "乾季における飼料資源の枯渇を防ぎ、年間を通じた家畜生産の安定性確保に直接寄与する。放牧地の持続的利用は長期的な供給量の維持（Availability）にもつながる。Accessibility・Utilizationへの直接効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "cat": "畜産（肉牛）",
+      "el": "C",
+      "t": "肉牛インデックス保険",
+      "tl": "高",
+      "td": "保険設計",
+      "il": "中",
+      "idt": "商品開発費用",
+      "pl": "必須",
+      "pd": "保険業規制",
+      "n": "畜産（共通）の家畜インデックス保険と連動",
+      "overview": "干ばつなどの気象指標や植生指数（NDVI）等の客観的な指標に連動して保険金が支払われる家畜保険商品。個々の家畜の死亡確認を要さず、指標が一定の閾値を超えた場合に自動的に給付されるため、迅速な補償が可能になる。",
+      "effects": "干ばつ等による家畜損失時の所得の急激な落ち込みを補償し、安定性の確保に直接寄与する。補償金は再建資金として活用され、供給力の早期回復（Availability）にもつながる。Accessibility・Utilizationへの直接効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "cat": "畜産（肉牛）",
+      "el": "D",
+      "t": "衛生的なと畜・食肉検査体制の整備",
+      "tl": "高",
+      "td": "食肉検査技術",
+      "il": "大",
+      "idt": "施設・検査人材",
+      "pl": "必須",
+      "pd": "と畜・食肉検査法制",
+      "n": "畜産（共通）の安全取扱い技術を参照",
+      "overview": "と畜場における衛生管理手順の確立と、食肉検査員による検査体制の整備を行う取り組み。病畜の排除、寄生虫・病原体の検査、衛生的な解体・保管手順の徹底により、消費者に安全な食肉を供給する。",
+      "effects": "食肉の安全性・衛生水準が向上し、栄養素の適切な利用（Utilization）に直接寄与する。安全性への信頼向上は正規流通の利用拡大を通じアクセス改善にもつながる。Availability・Stabilityへの直接効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "cat": "畜産（肉牛）",
+      "el": "D",
+      "t": "食肉流通のコールドチェーン整備",
+      "tl": "高",
+      "td": "冷却・流通管理技術",
+      "il": "大",
+      "idt": "設備・電力",
+      "pl": "一部必要",
+      "pd": "コールドチェーン基準",
+      "n": "電力アクセス",
+      "overview": "食肉のと畜後から消費者に届くまでの間、一定の低温を保ちながら流通させる体制（冷蔵・冷凍設備、保冷車両等）を整備する取り組み。品質劣化・腐敗を防ぎ、安全な状態での食肉供給を可能にする。",
+      "effects": "食肉の品質・安全性が維持され、栄養素の利用（Utilization）に直接寄与する。廃棄・品質劣化の減少は実質的な供給量の確保（Availability）にもつながり、流通の安定化（Stability）にも資する。Accessibilityへの直接効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "Reducing Postharvest Losses during Storage of Grain Crops to Strengthen Food Security in Developing Countries",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5296677/"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "cat": "畜産（肉牛）",
+      "el": "D",
+      "t": "コールドチェーンが未整備な地域向けの乾燥肉（ビルトング等）加工技術",
+      "tl": "中",
+      "td": "乾燥・保存技術",
+      "il": "小〜中",
+      "idt": "乾燥設備",
+      "pl": "一部必要",
+      "pd": "食肉加工の衛生基準",
+      "n": "コールドチェーン未整備地域での代替手段",
+      "overview": "コールドチェーンが整っていない地域向けに、食肉を薄切りにして塩漬け・香辛料処理を施した後に乾燥させ、常温での長期保存を可能にする加工技術。南部アフリカのビルトングなどが代表例で、簡易な乾燥棚や燻製設備を用いて実施できる。",
+      "effects": "冷蔵設備がなくても食肉を長期保存・流通できるようになり、栄養素の利用（Utilization）に直接寄与する。保存性の向上は供給の平準化（Availability・Stability）にも寄与し、遠隔地への流通拡大を通じアクセス改善にもつながりうる。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        },
+        {
+          "label": "Reducing Postharvest Losses during Storage of Grain Crops to Strengthen Food Security in Developing Countries",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5296677/"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "cat": "畜産（ヤギ・羊）",
+      "el": "A",
+      "t": "在来種・適応品種の選抜・改良",
+      "tl": "中",
+      "td": "選抜育種技術",
+      "il": "小〜中",
+      "idt": "育種プログラム費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "遺伝資源の多様性保全",
+      "overview": "在来のヤギ・羊の中から、成長性や繁殖性、耐病性・耐乾性に優れた個体を選抜し、計画的な交配によって集団全体の生産性を高める取り組み。血統管理や記録に基づく選抜育種を基本とし、必要に応じて外部の適応品種を導入して交配改良を行う場合もある。普及員は農家グループでの選抜基準の共有や種オス管理の調整役を担う。",
+      "effects": "Availability（量的十分性）の向上、すなわち乳・肉の生産量増加に直接寄与する。産子率や生存率の改善は家畜資産の蓄積を通じAccessibility（資産形成機会の拡大）にも波及し、耐病性・耐乾性品種の普及は気候変動や疾病リスクへの耐性向上を通じStabilityにも一定の効果を持つ。Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "cat": "畜産（ヤギ・羊）",
+      "el": "A",
+      "t": "耐乾性飼料木本（ブラウズ）の植栽による飼料基盤強化",
+      "tl": "中",
+      "td": "植栽・管理技術",
+      "il": "小〜中",
+      "idt": "苗木費（成果まで数年）",
+      "pl": "一部必要",
+      "pd": "植林・土地利用規制",
+      "n": "成果発現までの期間",
+      "overview": "アカシアなど乾燥に強い樹木・低木を農地の畦や放牧地周辺に植栽し、乾季でも家畜が採食できる葉や莢を飼料資源として確保する取り組み。育苗・植栽の技術指導に加え、剪定によるブラウズ供給量の管理や、土地利用計画との調整が必要となる。",
+      "effects": "Availability（量的十分性）の向上、すなわち乾季の飼料量確保による家畜生産の安定的な維持に直接寄与する。乾季の飼料不足を緩和することで季節変動への耐性というStabilityの向上にも大きく寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "cat": "畜産（ヤギ・羊）",
+      "el": "A",
+      "t": "寄生虫対策（定期駆虫）の徹底（小型反すう動物における主要な生産性阻害要因への対応）",
+      "tl": "低",
+      "td": "投薬技術",
+      "il": "小",
+      "idt": "駆虫薬の継続調達費",
+      "pl": "一部必要",
+      "pd": "動物用医薬品の流通規制",
+      "n": "駆虫薬へのアクセス・耐性発現への注意",
+      "overview": "小型反すう動物（ヤギ・羊）の生産性を大きく損なう内部・外部寄生虫について、定期的な駆虫薬投与や放牧管理の改善によって被害を抑える取り組み。投薬時期の設定や適正な用量管理、駆虫薬の安定的な調達体制の構築が主な作業内容となる。",
+      "effects": "Availability（量的十分性）の向上、すなわち寄生虫による発育阻害・死亡の防止を通じた生産量増加に直接寄与する。個体の健康状態改善は疾病による損失リスクの低減というStabilityの向上にも寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "PMC: Improving adoption of technologies and interventions for increasing supply of quality livestock feed in LMICs",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726233/"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "cat": "畜産（ヤギ・羊）",
+      "el": "B",
+      "t": "ヤギ・羊のパス・オン（又貸し）プログラムによる無資産層・女性への資産形成支援",
+      "tl": "低",
+      "td": "プログラム運営",
+      "il": "中",
+      "idt": "初期家畜調達費",
+      "pl": "",
+      "pd": "不要",
+      "n": "受益者選定の公平性",
+      "overview": "無資産層や女性世帯に対し、妊娠中のヤギ・羊を貸与し、生まれた子畜の一部を元の飼い主やコミュニティ基金に返還する仕組みで資産形成を支援する取り組み。受益者選定や返還ルールの設定、モニタリングを行う運営組織の存在が前提となる。",
+      "effects": "Accessibility（アクセス）の向上、すなわち資産を持たない層が家畜資産と収入機会を得られるようになることに直接寄与する。世帯の家畜保有増加は乳・肉の家庭内消費増加を通じUtilization（食生活の多様化）にも波及しうる。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "cat": "畜産（ヤギ・羊）",
+      "el": "B",
+      "t": "小資本で参入しやすい家畜種としての普及（貧困層の初期資本形成手段）",
+      "tl": "低",
+      "td": "普及設計",
+      "il": "小",
+      "idt": "普及費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "貧困層・女性への優先的な普及設計",
+      "overview": "牛など大型家畜に比べ購入・維持コストが低いヤギ・羊の特性を活かし、貧困層が少ない元手で家畜飼育を始められるよう普及活動を行う取り組み。飼育開始に必要な初期知識の提供や、貧困層・女性を対象とした優先的な普及活動の設計が中心となる。",
+      "effects": "Accessibility（アクセス）の向上、すなわち低所得層が家畜資産・収入源へアクセスしやすくなることに直接寄与する。家畜保有の裾野拡大は世帯の乳・肉消費機会の増加を通じUtilizationにも一定の波及効果を持つ。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Designing Nutrition-Sensitive Agriculture Investments",
+          "url": "https://www.fao.org/sustainable-food-value-chains/library/details/en/c/388116/"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "cat": "畜産（ヤギ・羊）",
+      "el": "B",
+      "t": "村落レベルでの繁殖サービス・コミュニティ獣医サービス",
+      "tl": "中",
+      "td": "コミュニティ獣医研修",
+      "il": "小〜中",
+      "idt": "研修費用",
+      "pl": "必須",
+      "pd": "獣医関連法制",
+      "n": "継続的な技術支援",
+      "overview": "村落内の担い手を選抜し、人工授精や種オス管理などの繁殖サービス、および基本的な疾病診断・投薬を行うコミュニティアニマルヘルスワーカー（CAHW）を養成・配置する取り組み。専門獣医が不足する地域で、農家が身近に基礎的な家畜衛生サービスにアクセスできるようにする。",
+      "effects": "Accessibility（アクセス）の向上、すなわち僻地の農家が獣医・繁殖サービスに物理的・経済的にアクセスしやすくなることに直接寄与する。適切な繁殖管理・疾病予防は生産量の増加を通じAvailabilityに、また疾病リスクの低減を通じStabilityにも波及する。",
+      "sources": [
+        {
+          "label": "ACIAR: Village chickens, poverty alleviation and Newcastle disease vaccination",
+          "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/11133/pr131_pdf_20619.pdf"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "cat": "畜産（ヤギ・羊）",
+      "el": "C",
+      "t": "小反すう獣疫（PPR）ワクチン接種プログラム",
+      "tl": "中",
+      "td": "ワクチン接種技術",
+      "il": "中",
+      "idt": "ワクチン調達・コールドチェーン",
+      "pl": "必須",
+      "pd": "家畜疾病対策法制・国際基準対応",
+      "n": "畜産（乳牛）のコールドチェーンに依存",
+      "overview": "小反すう獣疫（PPR）というヤギ・羊に致死率の高いウイルス性疾病を予防するため、定期的な集団ワクチン接種キャンペーンを実施する取り組み。ワクチンの適切な保管・輸送（コールドチェーン）の確保と、接種技術者の育成・配置が実施の鍵となる。",
+      "effects": "Stability（安定性）の向上、すなわち疾病による突発的な大量死亡・生産崩壊リスクの低減に直接寄与する。家畜群の維持は生産量の安定確保を通じAvailabilityにも大きく寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "cat": "畜産（ヤギ・羊）",
+      "el": "C",
+      "t": "耐乾性飼料木本の活用による干ばつ時の飼料確保",
+      "tl": "中",
+      "td": "飼料木本の活用技術",
+      "il": "小〜中",
+      "idt": "苗木・管理費",
+      "pl": "",
+      "pd": "不要",
+      "n": "B12の飼料木本植栽と連動",
+      "overview": "No.126で植栽した耐乾性飼料木本を、通常の飼料が枯渇する乾季・干ばつ時の非常用飼料源として計画的に活用する取り組み。剪定・貯蔵のタイミング管理や、緊急時の給餌計画の策定が主な内容となる。",
+      "effects": "Stability（安定性）の向上、すなわち干ばつ時の飼料不足による家畜損失リスクの低減に直接寄与する。飼料基盤の確保は通年での生産維持を通じAvailabilityにも寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "cat": "畜産（ヤギ・羊）",
+      "el": "C",
+      "t": "大家畜より回転が早く衝撃吸収力が高い家畜としてのリスク分散機能の活用",
+      "tl": "低",
+      "td": "普及メッセージ",
+      "il": "小",
+      "idt": "普及費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "牧畜民の家畜種構成への意識づけ",
+      "overview": "牛などの大家畜に比べ世代交代（回転）が早く、少頭数の損失であれば世帯全体への打撃が小さいヤギ・羊の特性を、干ばつや疾病発生時のリスク分散手段として位置づけ、家畜種構成の一部に組み込むよう普及する取り組み。",
+      "effects": "Stability（安定性）の向上、すなわち気候ショックや疾病発生時の資産・収入の急落を緩和することに直接寄与する。回転の早さは損失後の生産回復を通じAvailabilityにも寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "cat": "畜産（ヤギ・羊）",
+      "el": "D",
+      "t": "小規模・衛生的な屠畜技術の普及",
+      "tl": "中",
+      "td": "衛生的な屠畜技術",
+      "il": "小〜中",
+      "idt": "器具・研修費",
+      "pl": "一部必要",
+      "pd": "小規模と畜の衛生基準",
+      "n": "畜産（共通）の安全取扱い技術と同様",
+      "overview": "家庭や小規模市場レベルで行われる屠畜作業について、衛生的な処理手順（放血・解体・保管）や器具の使用方法を普及する取り組み。食中毒・寄生虫感染リスクを減らし、安全に食肉を利用できるようにすることを目的とする。",
+      "effects": "Utilization（利用）の向上、すなわち食肉の安全な摂取・栄養価の保持に直接寄与する。ロス削減や衛生水準向上は流通可能な食肉量の確保を通じAvailabilityにもわずかに寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "cat": "畜産（ヤギ・羊）",
+      "el": "D",
+      "t": "地域によってはヤギ乳の乳幼児栄養への活用",
+      "tl": "低",
+      "td": "栄養教育",
+      "il": "小",
+      "idt": "教材費",
+      "pl": "",
+      "pd": "不要",
+      "n": "地域の食習慣・受容性に依存",
+      "overview": "一部地域で行われている、消化性が高く栄養価に優れるヤギ乳を離乳期以降の乳幼児の栄養補給に活用する取り組み。適切な加熱処理や与え方に関する栄養教育を通じて、安全かつ効果的な利用を促す。",
+      "effects": "Utilization（利用）の向上、すなわち乳幼児の栄養摂取改善・食事の多様化に直接寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "cat": "畜産（ヤギ・羊）",
+      "el": "D",
+      "t": "乾燥・保存加工技術によるロス削減",
+      "tl": "中",
+      "td": "乾燥・保存加工技術",
+      "il": "小〜中",
+      "idt": "加工設備",
+      "pl": "",
+      "pd": "不要",
+      "n": "肉牛の乾燥肉加工と同様の位置付け",
+      "overview": "屠畜後の余剰肉を乾燥肉（干し肉）などに加工し、冷蔵設備のない環境でも保存・流通できるようにする技術を普及する取り組み。乾燥方法・塩蔵処理・衛生的な保管方法の指導が主な内容となる。",
+      "effects": "Utilization（利用）の向上、すなわち保存性向上によるロス削減と通年での栄養摂取機会の確保に直接寄与する。ロス削減による流通可能量の増加はAvailabilityに、端境期の食肉確保はStabilityにも寄与する。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "cat": "畜産（豚）",
+      "el": "A",
+      "t": "豚品種改良（在来種と改良種の交配）",
+      "tl": "中",
+      "td": "交配技術",
+      "il": "小〜中",
+      "idt": "改良種導入費",
+      "pl": "",
+      "pd": "不要",
+      "n": "改良種の入手可能性",
+      "overview": "在来種の豚にデュロック種やランドレース種等の改良種を交配し、産子数の増加、成長速度の向上、飼料効率の改善を図る技術。種豚の導入や人工授精サービスを通じて計画的に交配を進め、在来種が持つ耐病性や粗飼料への適応力を維持しながら生産性を底上げする点が特徴。普及員は交配計画の立案や種豚管理を農家に指導する役割を担う。",
+      "effects": "Availability（量的十分性）：一頭あたりの産肉量・繁殖効率の向上を通じて豚肉供給量の増加に直接寄与する。Accessibility：生産コストの低減により将来的に豚肉価格が下がり入手しやすくなる可能性がある。Stability：生産量が底上げされることで需給変動への耐性がやや高まる。Utilization：他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "cat": "畜産（豚）",
+      "el": "A",
+      "t": "非慣行飼料資源の活用（食品残渣、ビール粕、キャッサバの皮、アメリカミズアブ幼虫等）による穀物飼料依存の低減",
+      "tl": "中",
+      "td": "代替飼料の調製・栄養設計技術",
+      "il": "小〜中",
+      "idt": "飼料化設備",
+      "pl": "一部必要",
+      "pd": "食品残渣利用の衛生規制",
+      "n": "分野横断：技術の飼料穀物競合への対応策として位置付け",
+      "overview": "食品加工残渣（ビール粕等）、農産物副産物（キャッサバの皮等）、昆虫タンパク（アメリカミズアブ幼虫）といった非慣行の飼料資源を豚の給餌に活用し、トウモロコシ等の穀物飼料への依存を下げる技術。原料の収集・保管、栄養価に応じた配合設計、必要に応じた乾燥・発酵処理を行い、安定した栄養価の代替飼料として給与する。",
+      "effects": "Availability（量的十分性）：穀物飼料と競合しない資源を活用することで豚肉生産の維持・拡大に直接寄与する。Accessibility：飼料費の低減を通じて生産コストが下がり価格面での入手しやすさが向上し得る。Stability：穀物価格変動の影響を受けにくくなり供給の安定性が高まる。Utilization：他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "PMC: Improving adoption of technologies and interventions for increasing supply of quality livestock feed in LMICs",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726233/"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "cat": "畜産（豚）",
+      "el": "A",
+      "t": "衛生的な豚舎・繋養方式（confinement）の導入",
+      "tl": "中",
+      "td": "豚舎設計・衛生管理",
+      "il": "中",
+      "idt": "豚舎建設費",
+      "pl": "一部必要",
+      "pd": "ASF対策としての飼養基準",
+      "n": "バイオセキュリティ強化と連動",
+      "overview": "豚を放し飼いではなく、区画された豚舎内で衛生的に飼養する繋養方式（confinement）を導入する技術。床の清掃・排水設計、給餌・給水設備の整備、外部からの病原体侵入を防ぐ動線管理などを組み合わせ、疾病の発生・まん延リスクを下げながら計画的な肥育を可能にする。",
+      "effects": "Availability（量的十分性）：疾病による死廃頭数の減少と肥育効率の向上を通じて豚肉供給量の増加に直接寄与する。Stability：アフリカ豚熱等の疾病リスクを下げることで供給の安定性向上に副次的に寄与する。Utilization：衛生的な飼養環境は食肉の安全性向上にもつながる。Accessibility：他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "cat": "畜産（豚）",
+      "el": "B",
+      "t": "コミュニティ養豚グループ・小口信用による小規模養豚の推進（回転が早く女性に適した資産形成手段）",
+      "tl": "低",
+      "td": "グループ運営",
+      "il": "中",
+      "idt": "初期家畜・豚舎費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "女性の参入しやすさへの配慮",
+      "overview": "地域の女性を中心とした養豚グループを組織し、小口信用（マイクロクレジット）を活用して種豚の導入や豚舎整備を支援する取り組み。豚は牛等に比べて資金回転が早く、少ない初期投資で始められるため、女性を含む小規模農家が資産を形成しながら現金収入を得る手段として位置付けられる。グループでの共同購買・技術共有・輪番的な子豚配布などの仕組みを組み込むことが多い。",
+      "effects": "Accessibility（アクセス）：現金収入の増加を通じて食料や豚肉そのものへのアクセス改善に直接寄与する。Availability：地域全体の養豚頭数増加を通じて供給量にも副次的に寄与する。Utilization：女性の所得向上が世帯の食料選択・栄養管理の改善につながる可能性がある。Stability：他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "ACIAR: Village chickens, poverty alleviation and Newcastle disease vaccination",
+          "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/11133/pr131_pdf_20619.pdf"
+        },
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "cat": "畜産（豚）",
+      "el": "B",
+      "t": "地域の食肉処理施設へのアクセス改善",
+      "tl": "中",
+      "td": "施設運営技術",
+      "il": "大",
+      "idt": "施設整備費",
+      "pl": "必須",
+      "pd": "と畜衛生基準",
+      "n": "肉牛のと畜場アクセスと同様",
+      "overview": "農家が生産した豚を衛生的に処理・出荷できるよう、地域の食肉処理施設（と畜場）の整備や利用機会の拡大を図る取り組み。施設までの輸送手段の確保、処理手数料の適正化、稼働時間の調整などを通じて、農家が安全かつ効率的に豚肉を市場に流通させられる環境を整える。",
+      "effects": "Accessibility（アクセス）：処理・出荷の障壁が下がることで市場を通じた豚肉の入手可能性向上に直接寄与する。Utilization：衛生的な処理施設の利用は食肉の安全性向上にも副次的に寄与する。Stability：安定した出荷経路の確保は供給の平準化にもつながり得る。Availability：他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "cat": "畜産（豚）",
+      "el": "C",
+      "t": "アフリカ豚熱（ASF）対策としてのバイオセキュリティ強化・移動制限体制",
+      "tl": "高",
+      "td": "疫学・防疫技術",
+      "il": "大",
+      "idt": "監視・防疫体制構築",
+      "pl": "必須",
+      "pd": "家畜伝染病予防法制・移動制限権限",
+      "n": "越境的な連携が必要な場合あり",
+      "overview": "アフリカ豚熱（ASF）の侵入・まん延を防ぐため、農場単位での消毒・車両動線管理・外来者制限といったバイオセキュリティ対策を強化し、発生時には家畜や畜産物の移動を制限する体制を整備する取り組み。獣医・防疫部局による疫学調査、発生農場周辺の監視、移動制限区域の設定・解除の運用ルール整備などを含む。",
+      "effects": "Stability（安定性）：疾病の突発的なまん延による豚肉供給の急減を防ぎ、供給の安定性確保に直接寄与する。Availability：発生・被害の抑制を通じて中長期的な供給量の維持にも副次的に寄与する。Accessibility：他要素への副次的効果は限定的。Utilization：他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "cat": "畜産（豚）",
+      "el": "C",
+      "t": "発生後の再導入支援・保険制度",
+      "tl": "中",
+      "td": "復興支援運営技術",
+      "il": "中〜大",
+      "idt": "復興財源",
+      "pl": "一部必要",
+      "pd": "被災農家支援制度",
+      "n": "発生の再発防止策との連動",
+      "overview": "アフリカ豚熱等の疾病発生により豚を失った農家が経営を再開できるよう、種豚の再導入支援や家畜共済・保険制度を整備する取り組み。被害農家への補償金や種豚の現物支給、低利融資などを組み合わせ、再発防止策（衛生管理指導等）とセットで再導入を進める。",
+      "effects": "Stability（安定性）：疾病発生後の生産崩壊からの回復を早め、供給の安定性確保に直接寄与する。Accessibility：農家の経営再建を通じて所得・食料へのアクセス回復にも副次的に寄与する。Availability：再導入により中期的な供給量回復にもつながる。Utilization：他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "cat": "畜産（豚）",
+      "el": "C",
+      "t": "検疫・監視体制の整備",
+      "tl": "高",
+      "td": "検疫・監視技術",
+      "il": "大",
+      "idt": "検疫体制構築",
+      "pl": "必須",
+      "pd": "検疫法制",
+      "n": "分野横断：技術の越境病害虫監視体制と連動",
+      "overview": "国境や地域間での豚・豚肉製品の移動に伴う疾病侵入リスクを管理するため、検疫所の設置・運用、市場や農場での定期的なサーベイランス（監視調査）体制を整備する取り組み。検体採取・診断ラボの整備、異常発生時の早期通報の仕組みづくりなどを含む。",
+      "effects": "Stability（安定性）：疾病の早期発見・侵入防止により供給の急変動リスクを抑え、安定性確保に直接寄与する。Availability：大規模なまん延を未然に防ぐことで供給量の維持にも副次的に寄与する。Accessibility：他要素への副次的効果は限定的。Utilization：他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "cat": "畜産（豚）",
+      "el": "D",
+      "t": "有鉤条虫症（Taenia solium／嚢虫症）対策を含む安全な豚肉取扱い・食肉検査",
+      "tl": "高",
+      "td": "寄生虫検査技術",
+      "il": "中〜大",
+      "idt": "検査体制",
+      "pl": "必須",
+      "pd": "食肉検査法制",
+      "n": "公衆衛生部門との連携",
+      "overview": "豚肉を介して人に感染する有鉤条虫症（嚢虫症）を防ぐため、と畜時の寄生虫検査、感染豚の廃棄・適正処理、十分な加熱調理の啓発などを組み合わせた食肉検査体制を整備する取り組み。検査員の育成や検査設備の整備に加え、農家段階での衛生的な飼養（人糞への豚のアクセス制限等）も併せて進める。",
+      "effects": "Utilization（利用）：安全な豚肉が食卓に供給されることで栄養摂取の安全性・有効性の向上に直接寄与する。Accessibility：検査済みの安全な豚肉の流通を通じて、安心して入手できる食肉へのアクセス向上に副次的に寄与する。Availability：他要素への副次的効果は限定的。Stability：他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "cat": "畜産（豚）",
+      "el": "D",
+      "t": "塩漬け・燻製等の保存加工技術",
+      "tl": "中",
+      "td": "塩漬け・燻製技術",
+      "il": "小〜中",
+      "idt": "加工設備",
+      "pl": "",
+      "pd": "不要",
+      "n": "肉牛の乾燥肉加工と同様の位置付け",
+      "overview": "豚肉を塩漬けや燻製に加工することで保存性を高め、非解体期にも安定して消費・販売できるようにする技術。塩分濃度や燻煙時間の管理、乾燥度合いの調整など基本的な加工工程を農家や小規模加工業者に指導し、腐敗防止と風味付けを両立させる。",
+      "effects": "Utilization（利用）：保存性の向上により無駄なく豚肉を消費・利用できるようになり、利用面の改善に直接寄与する。Stability：保存加工により供給の季節的な偏りを緩和し安定性向上に副次的に寄与する。Accessibility：加工品としての販売機会拡大により所得・入手機会の向上にもつながり得る。Availability：他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "cat": "畜産（豚）",
+      "el": "D",
+      "t": "養豚従事者向け衛生教育",
+      "tl": "低",
+      "td": "衛生教育",
+      "il": "小",
+      "idt": "教材費",
+      "pl": "",
+      "pd": "不要",
+      "n": "継続的な実践定着が課題",
+      "overview": "養豚に従事する農家を対象に、飼養環境の衛生管理、疾病予防、安全な豚肉取扱いに関する基礎知識を伝える研修・普及活動。豚舎の清掃方法、給餌・給水の衛生管理、異常個体の早期発見と対応などを実践的に指導し、日常的な衛生習慣の定着を図る。",
+      "effects": "Utilization（利用）：衛生的な飼養・取扱いの実践を通じて食肉の安全性向上に直接寄与する。Stability：疾病の早期発見により被害拡大を防ぎ、供給の安定性向上にも副次的に寄与する。Availability：疾病による損失削減を通じて供給量の維持にもつながり得る。Accessibility：他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "cat": "畜産（養鶏）",
+      "el": "A",
+      "t": "在来種二重用途鶏（卵・肉兼用）の改良",
+      "tl": "中",
+      "td": "選抜育種",
+      "il": "小",
+      "idt": "育種プログラム費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "遺伝資源の保全",
+      "overview": "在来鶏は暑熱や粗放な飼養環境への適応力が高い一方、産卵数・増体量ともに低い。本介入は、在来種の耐病性・耐暑性を維持しながら選抜育種によって産卵性・産肉性を段階的に高め、卵と肉の両方を安定して得られる二重用途鶏に改良する取組みである。純粋な高生産性の商業種導入とは異なり、地域の飼養条件に合わせた漸進的な改良を行う点が特徴。",
+      "effects": "Availabilityの要素として、鶏卵・鶏肉双方の家庭内生産量増加に直接寄与する。あわせてUtilizationの面でも卵・肉という良質たんぱく源の摂取機会が増え、Accessibilityについても改良種は追加投入財への依存が小さいため小規模農家が導入しやすい。Stabilityへの寄与は在来種由来の頑健性維持により副次的に見込まれる。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "ACIAR: Village chickens, poverty alleviation and Newcastle disease vaccination",
+          "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/11133/pr131_pdf_20619.pdf"
+        },
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "cat": "畜産（養鶏）",
+      "el": "A",
+      "t": "耐熱性ニューカッスル病ワクチン（I-2ワクチン等）の普及",
+      "tl": "中",
+      "td": "ワクチン接種・保存技術",
+      "il": "小〜中",
+      "idt": "ワクチン調達費",
+      "pl": "一部必要",
+      "pd": "動物用医薬品流通規制",
+      "n": "I-2は常温取扱いが比較的容易だが供給体制が必要",
+      "overview": "ニューカッスル病は在来鶏群を壊滅させる最大の死亡要因であり、農家の鶏飼養意欲を大きく削いでいる。I-2ワクチンは常温でも比較的安定を保つ耐熱性生ワクチンで、点眼・混餌など簡便な方法で接種できるため、電力や冷蔵設備が乏しい農村部でも活用しやすい。定期的な接種サイクルを地域で組むことで群れ全体の発症を予防する。",
+      "effects": "Availabilityの要素として、大量死を防ぎ鶏群頭数・卵肉生産量を維持・増加させる直接効果を持つ。Stabilityの面では疾病による周期的な壊滅リスクを下げ生産の変動を抑える。Accessibilityについても常温流通が可能なため遠隔地の農家にも供給しやすいという副次的効果がある。",
+      "sources": [
+        {
+          "label": "ACIAR: Village chickens, poverty alleviation and Newcastle disease vaccination",
+          "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/11133/pr131_pdf_20619.pdf"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "cat": "畜産（養鶏）",
+      "el": "A",
+      "t": "非慣行飼料資源（アメリカミズアブ幼虫、台所残渣、農産副産物）の活用による穀物飼料依存の低減",
+      "tl": "中",
+      "td": "代替飼料の調製技術",
+      "il": "小〜中",
+      "idt": "飼料化設備",
+      "pl": "一部必要",
+      "pd": "飼料衛生規制",
+      "n": "養豚の非慣行飼料活用と同様、飼料穀物競合対応",
+      "overview": "アメリカミズアブ（ブラックソルジャーフライ）幼虫や台所残渣、米ぬか・ふすまなどの農産副産物を鶏用飼料として活用し、価格が変動しやすいトウモロコシなどの穀物飼料への依存を減らす取組み。幼虫は生ごみ等の有機廃棄物を分解しながら高たんぱくの飼料原料に転換できるため、飼料コスト削減と資源循環を同時に図れる。",
+      "effects": "Availabilityの要素として、飼料コスト低下により飼養羽数・生産量の維持拡大に寄与する。Stabilityの面では穀物価格変動の影響を受けにくくなり生産の安定に資する。Accessibilityについても低コスト飼料により小規模農家が導入しやすくなる副次的効果がある。",
+      "sources": [
+        {
+          "label": "PMC: Improving adoption of technologies and interventions for increasing supply of quality livestock feed in LMICs",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726233/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "cat": "畜産（養鶏）",
+      "el": "A",
+      "t": "低コストな鶏舎・捕食者対策",
+      "tl": "低",
+      "td": "簡易資材の設置",
+      "il": "小",
+      "idt": "資材費",
+      "pl": "",
+      "pd": "不要",
+      "n": "—",
+      "overview": "竹や網、廃材など入手しやすい資材を用いた簡易鶏舎の設置や、夜間の囲い・高床式止まり木の導入により、野犬やマングースなどの捕食者による雛・成鶏の被害を減らす取組み。高額な設備投資を伴わず、既存の在来種飼養慣行に組み込める点が特徴。",
+      "effects": "Availabilityの要素として、捕食による損耗を防ぎ生存率を高めることで実質的な生産量増加に直接寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "ACIAR: Village chickens, poverty alleviation and Newcastle disease vaccination",
+          "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/11133/pr131_pdf_20619.pdf"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "cat": "畜産（養鶏）",
+      "el": "B",
+      "t": "鶏のパス・オン・プログラム（小資本で始められる女性向け資産形成手段）",
+      "tl": "低",
+      "td": "プログラム運営",
+      "il": "小",
+      "idt": "初生ひな調達費",
+      "pl": "",
+      "pd": "不要",
+      "n": "女性向け資産形成手段としての位置付け",
+      "overview": "初生ひなや若鶏を受益者に貸与・配布し、飼養して増えた個体の一部を次の受益者へ引き継ぐ仕組み。少額の初期投入で開始でき、女性や貧困層でも参加しやすいため、家畜資産の獲得手段として広く活用されている。地域コミュニティ内での相互扶助的な資産循環を生み出す点も特徴。",
+      "effects": "Accessibilityの要素として、少ない初期資本で家畜資産にアクセスできる仕組みを提供する点に直接寄与する。あわせてAvailabilityの面では地域全体の飼養羽数増加に、Utilizationの面では家庭内での卵・肉消費機会の拡大に副次的につながる。",
+      "sources": [
+        {
+          "label": "ACIAR: Village chickens, poverty alleviation and Newcastle disease vaccination",
+          "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/11133/pr131_pdf_20619.pdf"
+        },
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "cat": "畜産（養鶏）",
+      "el": "B",
+      "t": "コミュニティ・ワクチネーター（CAHW）ネットワークによるワクチン供給",
+      "tl": "中",
+      "td": "接種技術研修",
+      "il": "小〜中",
+      "idt": "研修費",
+      "pl": "必須",
+      "pd": "CAHW活動の法的位置付け",
+      "n": "畜産（共通）のCAHWと同様",
+      "overview": "獣医師が不足する農村部において、簡単な研修を受けた地域住民（コミュニティ・アニマルヘルスワーカー）がニューカッスル病ワクチンの接種等を担う仕組み。畜産（共通）分野でのCAHW活用と同様の考え方を養鶏に適用し、遠隔地の農家にもワクチンサービスを届ける。",
+      "effects": "Accessibilityの要素として、専門獣医師が不在の地域でもワクチン接種サービスへのアクセスを確保する点に直接寄与する。Stabilityの面では疾病流行リスクの低減、Availabilityの面では鶏群の維持を通じた生産量確保に副次的に貢献する。",
+      "sources": [
+        {
+          "label": "ACIAR: Village chickens, poverty alleviation and Newcastle disease vaccination",
+          "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/11133/pr131_pdf_20619.pdf"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "cat": "畜産（養鶏）",
+      "el": "B",
+      "t": "ふ卵場・初生ひな供給網の整備",
+      "tl": "高",
+      "td": "ふ化技術",
+      "il": "中〜大",
+      "idt": "ふ卵場設備",
+      "pl": "",
+      "pd": "不要",
+      "n": "電力アクセス（ふ卵器の稼働）",
+      "overview": "孵化器を備えたふ卵場を設置・運営し、そこで生産した初生ひなを農村部の農家まで届ける流通網を整備する取組み。個々の農家が種卵を確保し孵化させる負担を軽減し、改良種や無病の初生ひなに安定的にアクセスできるようにする。",
+      "effects": "Accessibilityの要素として、農家が良質な初生ひなを継続的に入手できる体制を構築する点に直接寄与する。Availabilityの面では地域全体の鶏群更新・増羽が進み、生産量増加にも副次的に貢献する。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "ACIAR: Village chickens, poverty alleviation and Newcastle disease vaccination",
+          "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/11133/pr131_pdf_20619.pdf"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "cat": "畜産（養鶏）",
+      "el": "C",
+      "t": "ワクチン用コールドチェーンの整備",
+      "tl": "中",
+      "td": "冷蔵設備の維持管理",
+      "il": "中",
+      "idt": "冷蔵設備",
+      "pl": "一部必要",
+      "pd": "畜産（共通）と同様のコールドチェーン基準",
+      "n": "電力アクセス",
+      "overview": "ワクチンの有効性は温度管理に強く左右されるため、生産地から末端の農村部まで一定の低温状態を保って輸送・保管する冷蔵・冷凍設備網（コールドチェーン）を整備する取組み。冷蔵庫、保冷ボックス、太陽光発電式冷蔵設備などを組み合わせ、遠隔地までワクチンの品質を保ったまま届ける。",
+      "effects": "Stabilityの要素として、ワクチンの有効性を保ちつつ安定供給することで疾病流行による生産変動を抑える点に直接寄与する。Accessibilityの面では遠隔地の農家もワクチン接種にアクセスしやすくなり、Availabilityの面でも鶏群の維持を通じ生産量確保に副次的に貢献する。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        },
+        {
+          "label": "ACIAR: Village chickens, poverty alleviation and Newcastle disease vaccination",
+          "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/11133/pr131_pdf_20619.pdf"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "cat": "畜産（養鶏）",
+      "el": "C",
+      "t": "鳥インフルエンザ対策バイオセキュリティ",
+      "tl": "高",
+      "td": "防疫技術",
+      "il": "大",
+      "idt": "監視体制",
+      "pl": "必須",
+      "pd": "家畜伝染病予防法制",
+      "n": "分野横断：技術の越境病害虫監視と連動",
+      "overview": "高病原性鳥インフルエンザの侵入・まん延を防ぐため、農場への出入り管理、器具・車両の消毒、野鳥との接触遮断、早期発見のための監視体制構築などを組み合わせたバイオセキュリティ対策を導入する取組み。発生時の迅速な封じ込め・淘汰体制の整備も含まれる。",
+      "effects": "Stabilityの要素として、大規模な感染拡大や強制淘汰による生産の急激な落ち込みを防ぐ点に直接寄与する。他要素への副次的効果は限定的だが、感染拡大を防ぐことでAvailabilityの急減リスク回避にもつながる。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "cat": "畜産（養鶏）",
+      "el": "C",
+      "t": "二重用途種の活用による生産の頑健性向上",
+      "tl": "低",
+      "td": "普及設計",
+      "il": "小",
+      "idt": "普及費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "在来種二重用途鶏の改良と連動",
+      "overview": "卵・肉兼用に改良された二重用途種は、単一用途に特化した高生産性種に比べて疾病・気候ストレス等への耐性が高く、環境変動下でも一定の生産水準を維持しやすい。この特性を活かし、外部条件が悪化した年でも家計の卵・肉供給が大きく途絶えないようにする取組み。",
+      "effects": "Stabilityの要素として、気象や疾病による年次変動に対して生産水準を維持しやすくする点に直接寄与する。Availabilityの面では平常時の生産量確保にも副次的に貢献する。",
+      "sources": [
+        {
+          "label": "ACIAR: Village chickens, poverty alleviation and Newcastle disease vaccination",
+          "url": "https://www.aciar.gov.au/sites/default/files/legacy/node/11133/pr131_pdf_20619.pdf"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "cat": "畜産（養鶏）",
+      "el": "D",
+      "t": "乳幼児の補完食としての鶏卵・鶏肉摂取促進（発育阻害（スタンティング）予防効果のエビデンスに基づく栄養教育）",
+      "tl": "低",
+      "td": "栄養教育",
+      "il": "小",
+      "idt": "教材費",
+      "pl": "",
+      "pd": "不要",
+      "n": "卵アレルギー等への配慮、価格アクセスは主食・野菜の栄養強化と連動",
+      "overview": "生後6か月以降の乳幼児に対し、鶏卵や鶏肉を離乳食・補完食として日常的に取り入れるよう促す栄養教育活動。鶏卵摂取が発育阻害（スタンティング）の予防に有効であるとする研究知見を根拠に、母親・養育者向けの調理法や与え方の指導を行う。",
+      "effects": "Utilizationの要素として、家庭内で生産・入手した卵・肉を乳幼児の栄養改善に直接活用する行動変容を促す点に直接寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "cat": "畜産（養鶏）",
+      "el": "D",
+      "t": "食鳥処理・ふ化場における食品安全管理（HACCP導入）",
+      "tl": "高",
+      "td": "HACCP運用技術",
+      "il": "中〜大",
+      "idt": "設備・研修",
+      "pl": "一部必要",
+      "pd": "食品安全基準",
+      "n": "分野横断：技術のHACCPパターンと連動",
+      "overview": "食鳥処理施設やふ化場において、危害要因分析重要管理点（HACCP）方式を導入し、汚染リスクの高い工程を特定して継続的にモニタリング・記録する食品安全管理体制を構築する取組み。従業員の衛生教育や施設の衛生設計見直しも含まれる。",
+      "effects": "Utilizationの要素として、食中毒リスクを低減し安全な卵・鶏肉を消費者に届けることで栄養の実質的な利用可能性を高める点に直接寄与する。Stabilityの面では汚染事故による供給停止・回収リスクの低減にも副次的に貢献する。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "cat": "水産（共通）",
+      "el": "A",
+      "t": "水産・養殖普及サービスの整備",
+      "tl": "中",
+      "td": "普及員の専門研修",
+      "il": "中",
+      "idt": "人件費・研修費",
+      "pl": "一部必要",
+      "pd": "水産普及サービスの予算措置",
+      "n": "陸上農業普及網との連携",
+      "overview": "漁業・養殖業者に技術指導や情報提供を行う専門の普及員制度を整備する取り組み。種苗選定、飼育管理、疾病予防、収穫後処理など幅広い技術を農家・漁民に直接伝える人材を育成・配置し、巡回指導や実演圃場（養殖池）での研修を通じて現場への技術移転を進める。既存の陸上農業普及網に水産分野の担当者を組み込む形や、独立した水産普及部局を設ける形など、実施体制は国により異なる。",
+      "effects": "Availabilityの中心的取り組みとして、養殖・漁業生産技術の普及を通じて水産物の供給量増加に直接寄与する。副次的には、適正な取扱い技術の指導によりUtilization（衛生的な取扱いの浸透）にもつながり、普及員を通じた市場情報の提供はAccessibility（流通・販売機会の改善）にも一定の効果を持つ。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "cat": "水産（共通）",
+      "el": "A",
+      "t": "水質管理の基礎技術",
+      "tl": "中",
+      "td": "水質測定・管理技術",
+      "il": "小",
+      "idt": "測定器具",
+      "pl": "",
+      "pd": "不要",
+      "n": "継続的なモニタリング体制",
+      "overview": "養殖池・生け簀における溶存酸素量、pH、アンモニア濃度、水温などを定期的に測定し、魚介類の生育に適した水質を維持するための基礎技術。簡易水質測定キットの使用法、異常値が出た際の換水・曝気などの対処法を養殖農家に指導する。過密養殖や餌の与えすぎによる水質悪化を防ぎ、へい死率の低下と成長率の向上につなげる。",
+      "effects": "Availabilityの中心的取り組みとして、水質悪化によるへい死・生育不良を防ぎ養殖生産量の安定・増加に直接寄与する。副次的には、安定した生産はStability（生産変動の抑制）にもつながる。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "MDPI: Nutrition-Sensitive Homestead Pond Polyculture Technology Empowers Women in Rural Bangladesh",
+          "url": "https://www.mdpi.com/2071-1050/17/23/10564"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "cat": "水産（共通）",
+      "el": "A",
+      "t": "共通疾病対策・バイオセキュリティ手法",
+      "tl": "高",
+      "td": "疾病診断技術",
+      "il": "中",
+      "idt": "診断体制",
+      "pl": "一部必要",
+      "pd": "水産防疫制度",
+      "n": "分野横断：技術の越境病害虫・疾病対応と連携しうる",
+      "overview": "養殖・漁業で発生しやすい疾病（ウイルス性・細菌性疾病、寄生虫等）の早期発見と、感染拡大を防ぐバイオセキュリティ手法（種苗の検疫、器具の消毒、感染個体の隔離・処分など）を組み合わせた対策。診断技術を持つ人材の育成と、養殖現場での衛生管理手順の徹底により、疾病による大量へい死を防ぐことを目的とする。",
+      "effects": "Availabilityの中心的取り組みとして、疾病による生産損失を防ぎ供給量の維持・増加に直接寄与する。副次的には、疾病発生の抑制は生産の年間を通じた安定確保（Stability）にも寄与する。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "cat": "水産（共通）",
+      "el": "B",
+      "t": "漁民・養殖業者組織化（協同組合結成支援）",
+      "tl": "低",
+      "td": "組合運営",
+      "il": "小〜中",
+      "idt": "組織化費用",
+      "pl": "一部必要",
+      "pd": "協同組合法制",
+      "n": "畜産（共通）の組織化と同様",
+      "overview": "零細漁民・養殖農家が個々に活動するのではなく、協同組合等の組織を結成することで、資材の共同購入、漁獲物・養殖物の共同出荷・共同販売、価格交渉力の強化を図る取り組み。組織運営の仕組みづくり（役員選出、会計管理、意思決定手続き等）を支援し、組合を通じた融資アクセスや技術情報の共有も促進する。",
+      "effects": "Accessibilityの中心的取り組みとして、共同販売による交渉力向上や流通コスト削減を通じて漁民の市場・資源へのアクセス改善に直接寄与する。副次的には、組織を通じた技術情報の共有はAvailability（生産技術の普及）にもつながる。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "cat": "水産（共通）",
+      "el": "B",
+      "t": "零細漁業者・養殖農家向けマイクロファイナンス",
+      "tl": "低",
+      "td": "融資審査運営",
+      "il": "中",
+      "idt": "融資原資",
+      "pl": "一部必要",
+      "pd": "金融規制",
+      "n": "担保資産の乏しさへの配慮",
+      "overview": "担保となる資産を持たない零細漁業者・養殖農家向けに、少額の運転資金・設備投資資金を融資する金融サービス。船外機や漁具、種苗・飼料の購入資金として活用され、グループ連帯保証や段階的な融資枠拡大など、担保に代わる仕組みを組み込んで貸し倒れリスクを管理する。",
+      "effects": "Accessibilityの中心的取り組みとして、資金制約の解消により資材・設備への投資を可能にし漁業・養殖活動へのアクセスを直接改善する。副次的には、設備投資の実現を通じてAvailability（生産量の増加）にも寄与しうる。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "cat": "水産（共通）",
+      "el": "B",
+      "t": "水産物加工・流通における女性の役割を支援する事業設計",
+      "tl": "低",
+      "td": "事業設計",
+      "il": "小〜中",
+      "idt": "事業設計費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "女性の労働負担・時間制約への配慮",
+      "overview": "水産物の乾燥・燻製・塩蔵といった加工作業や、小規模流通・販売の担い手として多くの女性が関わっている実態を踏まえ、女性が事業により参画しやすくなるよう作業環境や事業スキームを設計する取り組み。女性の労働負担軽減や収入向上を意識した加工施設のレイアウト、販売経路の整備、女性グループへの支援などを行う。",
+      "effects": "Accessibilityの中心的取り組みとして、女性の加工・流通への参画促進を通じて世帯の水産物・現金収入へのアクセス改善に直接寄与する。副次的には、女性の収入向上は世帯内の栄養管理・食料選択（Utilization）の改善にもつながりやすい。",
+      "sources": [
+        {
+          "label": "WorldFish: A gendered approach to nutrition-sensitive homestead pond polyculture",
+          "url": "https://www.worldfishcenter.org/blog/gendered-approach-nutrition-sensitive-homestead-pond-polyculture"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "cat": "水産（共通）",
+      "el": "C",
+      "t": "資源・生産量モニタリングデータ収集体制",
+      "tl": "高",
+      "td": "統計・資源評価技術",
+      "il": "大",
+      "idt": "調査体制構築",
+      "pl": "必須",
+      "pd": "データ収集の制度化",
+      "n": "零細漁業者からのデータ収集の実務的困難",
+      "overview": "漁獲量や養殖生産量、資源量の変動を継続的に把握するためのデータ収集・統計整備の仕組み。漁港での水揚げ記録、養殖農家からの生産報告、資源調査船による資源評価などを組み合わせ、資源の枯渇や生産量の急変を早期に察知し、漁獲規制や生産計画の調整に活用する。",
+      "effects": "Stabilityの中心的取り組みとして、資源・生産動向の把握を通じて乱獲や資源枯渇による供給不安定化を防ぐことに直接寄与する。副次的には、正確な統計データはAvailability（生産計画の精度向上）にもつながる。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "cat": "水産（共通）",
+      "el": "C",
+      "t": "疾病アウトブレイクの監視体制",
+      "tl": "高",
+      "td": "疾病診断・監視技術",
+      "il": "大",
+      "idt": "監視体制",
+      "pl": "必須",
+      "pd": "水産防疫法制",
+      "n": "B15の疾病対策と連動",
+      "overview": "養殖場・漁場における疾病の発生を早期に検知し、感染拡大を封じ込めるための監視ネットワークの構築。定点養殖場でのサンプル採取・検査、異常へい死の報告システム、発生時の移動制限や検疫措置の発動手順などを組み合わせ、疾病による生産の急激な落ち込みを防ぐ。",
+      "effects": "Stabilityの中心的取り組みとして、疾病拡大による生産の急激な変動・崩壊を防ぎ供給の安定確保に直接寄与する。副次的には、疾病抑制自体がAvailability（生産量の維持）にも寄与する。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "cat": "水産（共通）",
+      "el": "C",
+      "t": "水温・塩分等の気候変動モニタリングと適応",
+      "tl": "高",
+      "td": "観測技術",
+      "il": "大",
+      "idt": "観測機材",
+      "pl": "一部必要",
+      "pd": "気候情報の公的提供",
+      "n": "分野横断：技術の気象早期警戒と連携",
+      "overview": "気候変動に伴う水温上昇や塩分濃度の変化、異常気象による漁場・養殖場への影響を継続的に観測し、養殖種の選定や作業時期の調整、施設の防護対策など適応策につなげる取り組み。観測ブイやセンサーによるデータ収集と、その情報を漁民・養殖農家に分かりやすく還元する情報提供の仕組みを含む。",
+      "effects": "Stabilityの中心的取り組みとして、気候変動による急激な環境変化への適応を通じて生産の安定確保に直接寄与する。副次的には、環境変化に強い養殖種・手法への転換はAvailability（長期的な生産量確保）にもつながる。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "cat": "水産（共通）",
+      "el": "D",
+      "t": "水揚げ・収穫後の衛生的取扱い（氷蔵、コールドチェーン）",
+      "tl": "中",
+      "td": "衛生的取扱い技術",
+      "il": "中",
+      "idt": "氷・保冷設備",
+      "pl": "一部必要",
+      "pd": "衛生基準",
+      "n": "氷の安定供給体制",
+      "overview": "漁獲・収穫直後の水産物を氷蔵や保冷容器で速やかに冷却し、消費者・市場に届くまで低温を維持するコールドチェーンを整備する取り組み。船上での氷詰め、水揚げ地での保冷施設、輸送時の保冷ボックス活用などにより鮮度劣化・腐敗を防ぎ、安全に食べられる水産物の供給を確保する。",
+      "effects": "Utilizationの中心的取り組みとして、鮮度保持による食品としての安全性・品質確保に直接寄与する。副次的には、腐敗・廃棄の削減はAvailability（実質的な供給量の増加）にもつながり、鮮度の高い状態での出荷は市場価格の向上を通じてAccessibility（漁民の収入向上）にも寄与しうる。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "cat": "水産（共通）",
+      "el": "D",
+      "t": "水産物の食品安全基準整備",
+      "tl": "高",
+      "td": "検査技術",
+      "il": "大",
+      "idt": "検査体制",
+      "pl": "必須",
+      "pd": "食品安全法制",
+      "n": "分野横断：制度・基盤の食品安全規制と連動",
+      "overview": "水産物に含まれる病原微生物、重金属、貝毒、寄生虫等のリスクを管理するため、検査基準・検査体制を整備し、流通・輸出される水産物の安全性を担保する取り組み。検査ラボの整備、サンプリング手順の標準化、基準超過時の出荷停止措置などの法制度・実務体制を含む。",
+      "effects": "Utilizationの中心的取り組みとして、安全性が確保された水産物の消費を可能にすることに直接寄与する。副次的には、安全基準への適合は輸出市場へのアクセス拡大を通じてAccessibility（販路拡大）にもつながる。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "cat": "水産（共通）",
+      "el": "D",
+      "t": "小魚（骨・頭ごと食べる魚種）の摂取促進による微量栄養素補給の栄養教育",
+      "tl": "低",
+      "td": "栄養教育",
+      "il": "小",
+      "idt": "教材費",
+      "pl": "",
+      "pd": "不要",
+      "n": "骨ごと食べる食習慣の有無（地域差）",
+      "overview": "カルシウム、鉄分、ビタミンA、亜鉛等を豊富に含む小魚（骨や頭ごと丸ごと食べる小型魚種）の摂取を促す栄養教育。小魚の栄養価や調理法（乾燥小魚の粉末化、離乳食への添加など）を母親・養育者に伝え、日常の食事に取り入れることで妊産婦・乳幼児の微量栄養素不足を補うことを目指す。",
+      "effects": "Utilizationの中心的取り組みとして、微量栄養素摂取の改善を通じた栄養状態の向上に直接寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "WorldFish: A gendered approach to nutrition-sensitive homestead pond polyculture",
+          "url": "https://www.worldfishcenter.org/blog/gendered-approach-nutrition-sensitive-homestead-pond-polyculture"
+        },
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "cat": "水産（養殖）",
+      "el": "A",
+      "t": "優良種苗・稚魚供給システム（ふ化場整備）",
+      "tl": "高",
+      "td": "ふ化・育苗技術",
+      "il": "大",
+      "idt": "ふ化場建設費",
+      "pl": "一部必要",
+      "pd": "種苗の品質基準",
+      "n": "電力・水質管理への依存",
+      "overview": "養殖生産の起点となる稚魚を安定的に供給するため、公的・民間のふ化場（ハッチェリー）を整備し、人工採卵・ふ化・種苗育成の技術を導入する取り組み。親魚の選抜、産卵誘発、稚魚の初期飼育までを一貫して行い、農家が良質な種苗を市場を通じて入手できる体制をつくる。ふ化場は電力・水質管理設備を伴う中核施設として地域の養殖業を下支えする。",
+      "effects": "Availability（量的十分性）における種苗という生産投入財の供給量拡大に直接寄与する。種苗の質が向上すれば成長率・生残率が上がり、単位面積当たりの生産量が増えるため間接的にAccessibility（価格低下による入手しやすさ）にもつながる。Stability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "cat": "水産（養殖）",
+      "el": "A",
+      "t": "池・生簀養殖技術（水質・給餌管理）",
+      "tl": "中",
+      "td": "養殖管理技術",
+      "il": "中",
+      "idt": "池・生簀建設費",
+      "pl": "",
+      "pd": "不要",
+      "n": "水源・土地の確保",
+      "overview": "農家や地域が保有する池、あるいは河川・湖沼に設置する生簀を用いた養殖で、水質のモニタリングと適切な給餌スケジュールにより魚の成長を管理する技術。溶存酸素量やpHなどの水質パラメータを定期的に確認し、餌の種類・給餌量・給餌回数を成長段階に応じて調整することで、限られた水域から安定した収穫を得ることを目指す。",
+      "effects": "Availability（量的十分性）における魚介類の生産量そのものの増加に直接寄与する。生産が安定すれば余剰分の販売収入が増え、Accessibility（購買力の向上）にも波及しうる。Stability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "cat": "水産（養殖）",
+      "el": "A",
+      "t": "非慣行飼料（アメリカミズアブ幼虫、アゾラ等）の活用による穀物飼料との競合緩和",
+      "tl": "中",
+      "td": "飼料化技術",
+      "il": "小〜中",
+      "idt": "飼料化設備",
+      "pl": "一部必要",
+      "pd": "飼料衛生規制",
+      "n": "分野横断：技術の飼料競合対応",
+      "overview": "トウモロコシや大豆など人の食料・慣行飼料と競合する穀物ベースの飼料に代えて、アメリカミズアブ（Black Soldier Fly）の幼虫や水生シダの一種アゾラなど、有機廃棄物や水面を利用して生産できる代替飼料原料を養殖に活用する技術。飼料化のための飼育・乾燥・加工設備を整え、地域内で調達可能な資源から高タンパクの飼料を作り出す。",
+      "effects": "Availability（量的十分性）における飼料コストの低減を通じた生産量の維持・拡大に直接寄与する。穀物飼料との競合を緩和することで人向け食料の供給量確保（Availability全体の底上げ）にも間接的に貢献する。Accessibility・Stability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "cat": "水産（養殖）",
+      "el": "A",
+      "t": "小型で栄養密度の高い在来魚種（モラ等）とコイ科魚類のポリカルチャー（複合養殖）",
+      "tl": "中",
+      "td": "複合養殖設計",
+      "il": "小〜中",
+      "idt": "種苗費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "在来魚種の種苗確保",
+      "overview": "ビタミンAや鉄分・カルシウムなど微量栄養素を豊富に含む在来の小魚（モラ等）を、成長が早く収量の多いコイ科魚類と同じ池で同時に養殖する複合養殖技術。魚種ごとに水中の異なる層や餌資源を利用する性質を活かし、限られた池の面積から栄養価の異なる複数の水産物を得る設計を行う。",
+      "effects": "Availability（量的十分性）における栄養密度の高い食料の生産量増加に直接寄与する。小魚は丸ごと食べられるため微量栄養素摂取の改善を通じてUtilization（栄養素摂取の質）にも副次的効果がある。Accessibility・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "WorldFish: A gendered approach to nutrition-sensitive homestead pond polyculture",
+          "url": "https://www.worldfishcenter.org/blog/gendered-approach-nutrition-sensitive-homestead-pond-polyculture"
+        },
+        {
+          "label": "MDPI: Nutrition-Sensitive Homestead Pond Polyculture Technology Empowers Women in Rural Bangladesh",
+          "url": "https://www.mdpi.com/2071-1050/17/23/10564"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "cat": "水産（養殖）",
+      "el": "A",
+      "t": "稲田養魚等、農業と養殖を統合した生産システム",
+      "tl": "中",
+      "td": "統合設計技術",
+      "il": "小〜中",
+      "idt": "初期改修費",
+      "pl": "一部必要",
+      "pd": "農薬使用との調整規制",
+      "n": "稲作の農薬使用方法との整合が必要",
+      "overview": "水田に一定の水深を保ちながら魚を放流し、稲作と養殖を同じ圃場で同時に行う統合生産システム。魚は水田の害虫や雑草を摂食し排泄物が肥料となる一方、稲は魚の生息環境を提供するという相互補完関係を活用する。畦の嵩上げや排水路の設置など圃場の改修を伴う。",
+      "effects": "Availability（量的十分性）における米と魚介類という2種類の食料の同時生産による供給量増加に直接寄与する。同じ土地から複数の産物が得られるため農家の収入源多様化を通じたAccessibilityへの副次的効果も期待できる。Stability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "cat": "水産（養殖）",
+      "el": "B",
+      "t": "家庭用小規模池養殖（ホームステッド・ポンド・ポリカルチャー）の普及（女性主体の実施モデル）",
+      "tl": "低",
+      "td": "小規模養殖技術研修",
+      "il": "小",
+      "idt": "池造成費",
+      "pl": "",
+      "pd": "不要",
+      "n": "女性主体の実施モデルとしての設計配慮",
+      "overview": "自宅の庭先や周辺にある小規模な池を使い、家庭で管理可能な複合養殖（ポリカルチャー）を行う技術を、特に女性が主体となって実施できるモデルとして普及する取り組み。育児や家事と両立しやすい家の近くでの作業とし、女性向けの研修や意思決定への関与を組み込んだ形で技術移転を行う。",
+      "effects": "Accessibility（アクセス）における家庭が自ら生産・入手できる水産物の増加に直接寄与する。女性の技術習得と所得への関与は世帯内の意思決定力向上を通じてUtilization（栄養に配慮した食事選択）にも副次的効果が期待できる。Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "WorldFish: A gendered approach to nutrition-sensitive homestead pond polyculture",
+          "url": "https://www.worldfishcenter.org/blog/gendered-approach-nutrition-sensitive-homestead-pond-polyculture"
+        },
+        {
+          "label": "MDPI: Nutrition-Sensitive Homestead Pond Polyculture Technology Empowers Women in Rural Bangladesh",
+          "url": "https://www.mdpi.com/2071-1050/17/23/10564"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "cat": "水産（養殖）",
+      "el": "B",
+      "t": "池造成向けマイクロクレジット",
+      "tl": "低",
+      "td": "融資審査運営",
+      "il": "中",
+      "idt": "融資原資",
+      "pl": "一部必要",
+      "pd": "金融規制",
+      "n": "水産（共通）のマイクロファイナンスと同様",
+      "overview": "養殖用の池を新たに造成したり既存の池を改修したりする際の初期費用を、小口融資（マイクロクレジット）によって賄えるようにする金融サービス。返済能力の乏しい零細農家や女性を対象に、少額かつ簡易な審査で融資を実行し、養殖参入の資金的な障壁を下げる。",
+      "effects": "Accessibility（アクセス）における養殖参入のための初期資金へのアクセス改善に直接寄与する。参入農家が増えれば地域の水産物供給量増加を通じたAvailabilityへの副次的効果も見込める。Stability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "cat": "水産（養殖）",
+      "el": "B",
+      "t": "貧困層向け低投入型養殖技術の普及",
+      "tl": "中",
+      "td": "低コスト技術の研修",
+      "il": "小",
+      "idt": "研修費",
+      "pl": "",
+      "pd": "不要",
+      "n": "普及員の専門性確保",
+      "overview": "高額な設備や輸入配合飼料に頼らず、地域で入手できる有機物や副産物を餌として利用するなど、資金力の乏しい貧困層でも取り組める低コストの養殖技術を普及する取り組み。簡素な池の管理方法や低投入での給餌方法を研修を通じて伝える。",
+      "effects": "Accessibility（アクセス）における貧困層の養殖参入障壁の低下に直接寄与する。参入者が増えることで地域全体の水産物供給量増加を通じたAvailabilityへの副次的効果も期待できる。Stability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "cat": "水産（養殖）",
+      "el": "C",
+      "t": "周年生産を可能にする複数回放養（多回転養殖）計画",
+      "tl": "中",
+      "td": "生産計画技術",
+      "il": "小〜中",
+      "idt": "計画運用費",
+      "pl": "",
+      "pd": "不要",
+      "n": "種苗の周年供給体制に依存",
+      "overview": "1年に1回の放養・収穫サイクルではなく、収穫時期をずらしながら年間を通じて複数回稚魚を放養する生産計画を立て、養殖池を常に稼働させる技術。稚魚の入手時期や成長期間を踏まえた回転計画を組むことで、季節に左右されない継続的な出荷体制を構築する。",
+      "effects": "Stability（安定性）における水産物供給の周年安定化に直接寄与する。継続的な収穫は世帯の定期的な収入・食料源となりAccessibility（安定した入手経路）にも副次的効果がある。Availability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "cat": "水産（養殖）",
+      "el": "C",
+      "t": "池の疾病管理・水質モニタリングによる生産変動の抑制",
+      "tl": "高",
+      "td": "疾病診断・水質分析",
+      "il": "中",
+      "idt": "診断・分析体制",
+      "pl": "一部必要",
+      "pd": "水産防疫制度",
+      "n": "継続的なモニタリング能力",
+      "overview": "魚病の早期発見・診断と、溶存酸素・水温・pHなどの水質を継続的にモニタリングする体制を整え、疾病や水質悪化による大量へい死などの生産変動を未然に防ぐ取り組み。診断キットや水質計測機器を用いた定期点検と、異常時の対処手順の整備を含む。",
+      "effects": "Stability（安定性）における疾病・水質悪化に起因する生産の急変動の抑制に直接寄与する。生産が安定すれば供給量の底堅さを通じたAvailabilityへの副次的効果もある。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "cat": "水産（養殖）",
+      "el": "C",
+      "t": "洪水耐性を考慮した池設計（堤防強化等）",
+      "tl": "中",
+      "td": "土木設計技術",
+      "il": "中〜大",
+      "idt": "建設費",
+      "pl": "",
+      "pd": "不要",
+      "n": "立地の水害リスク評価",
+      "overview": "豪雨や河川氾濫による池の決壊や魚の流出を防ぐため、堤防の嵩上げ・補強や排水路の設計など、洪水リスクを織り込んだ養殖池の構造設計を行う技術。立地選定の段階から浸水想定区域を避けるなど、土木的な観点を取り入れる。",
+      "effects": "Stability（安定性）における洪水による生産損失リスクの低減に直接寄与する。生産の持続によりAvailability（供給量の維持）への副次的効果もある。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "cat": "水産（養殖）",
+      "el": "D",
+      "t": "自家消費を重視した養殖設計（換金作物としてだけでなく世帯の栄養改善を目的とした小魚養殖の位置づけ）",
+      "tl": "低",
+      "td": "普及メッセージ・設計指導",
+      "il": "小",
+      "idt": "普及費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "換金志向からの転換（自家消費用生産の普及メッセージと同様の課題）",
+      "overview": "養殖を市場出荷による現金収入源としてのみ捉えるのではなく、収穫した魚の一部を確実に世帯の食事に取り入れることを前提に養殖の規模や魚種構成を設計する取り組み。普及員が農家に対し自家消費の重要性を伝えるメッセージングや、自家消費分を見込んだ生産計画の指導を行う。",
+      "effects": "Utilization（利用）における世帯の栄養素摂取の改善に直接寄与する。自家消費の定着はAccessibility（世帯内での確実な入手）にも副次的効果がある。Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "WorldFish: A gendered approach to nutrition-sensitive homestead pond polyculture",
+          "url": "https://www.worldfishcenter.org/blog/gendered-approach-nutrition-sensitive-homestead-pond-polyculture"
+        },
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "cat": "水産（養殖）",
+      "el": "D",
+      "t": "安全な加工・乾燥技術",
+      "tl": "中",
+      "td": "加工・乾燥技術",
+      "il": "小〜中",
+      "idt": "加工設備",
+      "pl": "",
+      "pd": "不要",
+      "n": "分野横断：技術の収穫後加工技術と連動",
+      "overview": "収穫した魚を天日干しや燻製、塩蔵などの方法で加工・乾燥し、衛生的に保存・利用できるようにする技術。異物混入や不衛生な乾燥環境による品質劣化を防ぐため、乾燥棚やネットの活用など簡易な設備を用いた改良型の加工方法を導入する。",
+      "effects": "Utilization（利用）における安全で栄養価を保った形での水産物摂取に直接寄与する。保存性の向上により端境期にも食料として利用できるためStability（供給の平準化）への副次的効果もある。Availability・Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "cat": "水産（養殖）",
+      "el": "D",
+      "t": "抗生物質・薬剤残留リスク管理を含む食品安全対策",
+      "tl": "高",
+      "td": "薬剤管理・検査技術",
+      "il": "中",
+      "idt": "検査体制",
+      "pl": "必須",
+      "pd": "水産用医薬品規制・残留基準",
+      "n": "水産（共通）の食品安全基準と連動",
+      "overview": "養殖過程で使用される抗生物質や薬剤が魚体に残留し、消費者の健康リスクとなることを防ぐための管理体制を構築する取り組み。適正な薬剤使用量・休薬期間の順守指導、残留検査の実施、検査体制の整備を通じて、安全な水産物を食卓に届けることを目指す。",
+      "effects": "Utilization（利用）における水産物の安全性確保を通じた安全な栄養摂取に直接寄与する。安全基準を満たした水産物の流通は消費者の信頼を通じたAccessibility（市場での受容）への副次的効果もある。Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "cat": "水産（漁獲）",
+      "el": "A",
+      "t": "共同管理型の資源管理（漁業共同管理、漁獲割当）による長期的な漁獲量の維持",
+      "tl": "高",
+      "td": "資源評価・管理制度設計",
+      "il": "大",
+      "idt": "管理体制構築",
+      "pl": "必須",
+      "pd": "漁業法制・漁獲割当制度",
+      "n": "漁業者間の合意形成（既得権との調整）",
+      "overview": "漁業者団体・地域コミュニティと行政が協働して漁場を管理し、漁獲可能量（TAC）や個人・グループ別の漁獲割当（IQ・TURF等）を設定する仕組みである。乱獲を防ぎ、資源の再生産力を維持しながら持続的に漁獲を続けることを目指す。資源評価の結果に基づき、禁漁区の設定や漁具規制と組み合わせて運用されることが多い。",
+      "effects": "Availability要素として、短期的な漁獲抑制と引き換えに、中長期的な資源量・漁獲量の維持・回復に直接寄与する。Stability面では、資源崩壊のリスクを低減し年々の漁獲量の変動を抑える効果がある。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "cat": "水産（漁獲）",
+      "el": "A",
+      "t": "選択的漁具の導入（未成魚・混獲の削減）",
+      "tl": "中",
+      "td": "漁具改良技術",
+      "il": "小〜中",
+      "idt": "漁具購入費",
+      "pl": "一部必要",
+      "pd": "漁具規制",
+      "n": "漁獲量減少への漁業者の懸念への対応",
+      "overview": "網目サイズの調整、脱出装置（TED等）や選択性の高い釣り針・罠の導入により、未成魚や対象外の魚種・生物（混獲物）の漁獲を減らす漁具の改良である。成長途中の魚を漁場に残すことで、将来の資源量を確保する狙いがある。",
+      "effects": "Availability要素として、未成魚の保護を通じた将来の資源量・漁獲量の維持に直接寄与する。Stability面でも中長期的な漁獲の安定化に資する。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "cat": "水産（漁獲）",
+      "el": "A",
+      "t": "漁獲データ収集・資源評価体制の整備",
+      "tl": "高",
+      "td": "統計・資源評価技術",
+      "il": "大",
+      "idt": "調査体制構築",
+      "pl": "必須",
+      "pd": "水産（共通）のデータ収集制度化と連動",
+      "n": "零細漁業者からのデータ収集の実務的困難",
+      "overview": "水揚げ量、漁獲努力量、魚種構成などのデータを継続的に収集し、資源量の推定や資源状態の評価に活用する体制の整備である。漁業者への聞き取り調査、市場でのサンプリング、電子的な漁獲報告システムなどを組み合わせて実施する。",
+      "effects": "Availability要素として、資源状況の正確な把握を通じた適切な管理判断（漁獲可能量の設定等）を可能にし、持続的な漁獲量の確保に直接寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "cat": "水産（漁獲）",
+      "el": "B",
+      "t": "零細漁業者向け水揚げ地・市場インフラの整備",
+      "tl": "中",
+      "td": "施設運営",
+      "il": "大",
+      "idt": "施設建設費",
+      "pl": "一部必要",
+      "pd": "漁港整備計画",
+      "n": "立地条件（海岸線へのアクセス）",
+      "overview": "零細漁業者が漁獲物を安全かつ効率的に陸揚げし、市場へ運搬・販売できるよう、簡易な陸揚げ施設や荷捌き場、冷蔵・保冷設備、市場施設などを整備する取り組みである。",
+      "effects": "Accessibility要素として、漁業者が漁獲物を確実に市場につなげ、収入や食料へのアクセスを確保することに直接寄与する。Availability面でも水揚げ後の損失削減を通じた実質的な供給量増加につながる。Utilization面でも衛生的な取扱いの促進に資する。Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "cat": "水産（漁獲）",
+      "el": "B",
+      "t": "女性の水産物加工・流通従事を支援する仕組み",
+      "tl": "低",
+      "td": "事業設計",
+      "il": "小〜中",
+      "idt": "事業設計費用",
+      "pl": "",
+      "pd": "不要",
+      "n": "水産（共通）の女性支援設計と同様",
+      "overview": "女性が水産物の加工（燻製、乾燥、塩蔵等）や流通・販売に従事しやすいよう、資金・技術・市場アクセスへの支援や女性グループの組織化を行う取り組みである。",
+      "effects": "Accessibility要素として、女性の収入機会拡大を通じた世帯の食料アクセス向上に直接寄与する。Utilization面では、女性が家庭内の食料選択・調理に関与することが多いため栄養改善にもつながりやすい。Availability・Stabilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "cat": "水産（漁獲）",
+      "el": "B",
+      "t": "安全な操業のための装備・訓練（洋上安全）の普及",
+      "tl": "中",
+      "td": "安全装備の使用・訓練",
+      "il": "中",
+      "idt": "救命胴衣・通信機器等",
+      "pl": "一部必要",
+      "pd": "操業安全基準",
+      "n": "装備の継続的な維持管理",
+      "overview": "救命胴衣や無線・GPS等の通信機器の配布、悪天候時の対応や応急処置に関する操業安全訓練を通じて、漁業者の海難事故リスクを減らす取り組みである。",
+      "effects": "Accessibility要素として、漁業者が安全に操業を継続できることで、生計・食料へのアクセスの持続に直接寄与する。Stability面でも、事故による操業中断や人的損失のリスクを減らし漁業活動の安定に資する。Availability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "cat": "水産（漁獲）",
+      "el": "C",
+      "t": "禁漁期・海洋保護区の設定による資源の安定化",
+      "tl": "高",
+      "td": "資源科学に基づく設定技術",
+      "il": "中",
+      "idt": "モニタリング体制",
+      "pl": "必須",
+      "pd": "漁業法制・保護区指定",
+      "n": "漁業者の生計への影響を緩和する代替収入策との組み合わせが必要",
+      "overview": "産卵期や稚魚の成育期に合わせて一定期間の禁漁を設けたり、特定の海域を海洋保護区として漁獲を制限・禁止したりすることで、資源の再生産機会を確保する取り組みである。",
+      "effects": "Stability要素として、資源変動を抑え、長期的に安定した漁獲を可能にすることに直接寄与する。Availability面でも資源量の回復・維持を通じた漁獲量の確保につながる。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "cat": "水産（漁獲）",
+      "el": "C",
+      "t": "気象早期警戒システムによる操業計画支援",
+      "tl": "高",
+      "td": "観測・予測技術",
+      "il": "大",
+      "idt": "観測・伝達体制",
+      "pl": "一部必要",
+      "pd": "分野横断：技術の気象早期警戒と連動",
+      "n": "漁業者への伝達網",
+      "overview": "気象・海象データの観測・予測情報を漁業者に提供し、荒天時の出漁の可否判断や操業計画の調整に役立てる仕組みである。携帯電話やラジオ等を通じた警報の伝達体制も含む。",
+      "effects": "Stability要素として、悪天候による事故や漁獲機会の損失を防ぎ、操業の安定に直接寄与する。Accessibility面でも、安全な操業を通じた生計の継続に資する。Availability・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "cat": "水産（漁獲）",
+      "el": "C",
+      "t": "漁場・漁獲対象種の多様化によるリスク分散",
+      "tl": "中",
+      "td": "漁法の多様化技術",
+      "il": "小〜中",
+      "idt": "新漁法導入費",
+      "pl": "",
+      "pd": "不要",
+      "n": "新たな漁法・漁具の習得",
+      "overview": "単一の漁場や魚種に依存せず、複数の漁場・漁法・対象魚種を組み合わせて漁獲活動を行うことで、特定資源の不漁や環境変動の影響を分散させる取り組みである。",
+      "effects": "Stability要素として、特定魚種の不漁時にも他の漁場・魚種で漁獲を継続できるため、収入・漁獲量の変動を緩和することに直接寄与する。Availability面でも複数資源の活用を通じた供給の底上げに資する。Accessibility・Utilizationへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "cat": "水産（漁獲）",
+      "el": "C",
+      "t": "氷・断熱容器の活用による水揚げ後ロスの削減",
+      "tl": "低",
+      "td": "使用方法の研修",
+      "il": "小〜中",
+      "idt": "氷・容器の調達費",
+      "pl": "",
+      "pd": "不要",
+      "n": "氷の安定供給体制",
+      "overview": "漁獲物を氷や断熱容器（クーラーボックス等）で保冷し、水揚げから販売・加工までの間の鮮度低下や腐敗を防ぐ取り組みである。氷の使用法や容器の適切な取扱いに関する研修を伴う。",
+      "effects": "Stability要素として、水揚げ後の損失を減らし、漁獲物の実質的な供給を安定させることに直接寄与する。Availability面でも損失削減は実質的な供給量増加につながる。Utilization面でも衛生的な品質維持に資する。Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "cat": "水産（漁獲）",
+      "el": "D",
+      "t": "水揚げ現場での衛生的取扱い（氷蔵、断熱容器の使用）",
+      "tl": "低",
+      "td": "衛生的取扱いの研修",
+      "il": "小〜中",
+      "idt": "氷・容器",
+      "pl": "一部必要",
+      "pd": "衛生基準",
+      "n": "氷・断熱容器の活用（D17）と同一資機材で対応可能",
+      "overview": "水揚げ直後の漁獲物を氷蔵・断熱容器で保冷し、清潔な器材・場所で取り扱うことで、微生物汚染や品質劣化を防ぐ取り組みである。",
+      "effects": "Utilization要素として、安全で衛生的な水産物の提供を通じた栄養摂取の質の確保に直接寄与する。Stability面でも品質劣化・損失の抑制に資する。Availability・Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "cat": "水産（漁獲）",
+      "el": "D",
+      "t": "改良型燻製・ソーラー乾燥技術（燃料効率向上、多環芳香族炭化水素（PAH）汚染の低減）",
+      "tl": "中",
+      "td": "改良かまど・乾燥技術",
+      "il": "小〜中",
+      "idt": "機材購入費",
+      "pl": "",
+      "pd": "不要",
+      "n": "燃料（薪）の入手可能性",
+      "overview": "従来型のかまどより燃料効率の高い改良燻製かまどや、天日・ソーラー乾燥機を用いて魚を加工・保存する技術である。燃料使用量を抑えつつ、燻製時に生成される多環芳香族炭化水素（PAH）等の有害物質の低減も図る。",
+      "effects": "Utilization要素として、より安全で栄養価を保った加工水産物の提供に直接寄与する。Stability面でも保存性向上による供給の安定に資する。Availability・Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "cat": "水産（漁獲）",
+      "el": "D",
+      "t": "小魚を丸ごと食べる食習慣の促進による微量栄養素摂取の改善",
+      "tl": "低",
+      "td": "栄養教育",
+      "il": "小",
+      "idt": "教材費",
+      "pl": "",
+      "pd": "不要",
+      "n": "水産（共通）の小魚摂取促進と同様",
+      "overview": "カルシウムやビタミンA、鉄・亜鉛等の微量栄養素を豊富に含む小魚を、頭部・骨・内臓を含めて丸ごと食べる食習慣を、栄養教育や普及活動を通じて促進する取り組みである。",
+      "effects": "Utilization要素として、微量栄養素摂取の改善に直接寄与する。他要素への副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "JOGH: Nutrition-sensitive agriculture programs increase dietary diversity in children under 5 years",
+          "url": "https://jogh.org/2022/jogh-12-08001"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "cat": "水産（漁獲）",
+      "el": "D",
+      "t": "収穫後の微生物汚染防止対策",
+      "tl": "中",
+      "td": "衛生管理技術",
+      "il": "小〜中",
+      "idt": "資機材費",
+      "pl": "一部必要",
+      "pd": "食品安全基準",
+      "n": "安全な水へのアクセス",
+      "overview": "水揚げから加工・流通までの各段階で、清潔な水・器材の使用や取扱い手順の徹底により、細菌等による水産物の微生物汚染を防ぐ取り組みである。",
+      "effects": "Utilization要素として、安全な水産物の提供を通じた食品安全性の確保に直接寄与する。Stability面でも汚染による損失防止に資する。Availability・Accessibilityへの副次的効果は限定的。",
+      "sources": [
+        {
+          "label": "FAO: Artisanal Fish Drying (Food Loss and Waste in Fish Value Chains)",
+          "url": "https://www.fao.org/flw-in-fish-value-chains/value-chain/processing-storage/artisanal-fish-drying/en/"
+        },
+        {
+          "label": "FAO: Toolkit on nutrition-sensitive agriculture and food systems",
+          "url": "https://www.fao.org/nutrition/policies-programmes/toolkit/en/"
+        }
+      ]
+    }
+  ]
+}
